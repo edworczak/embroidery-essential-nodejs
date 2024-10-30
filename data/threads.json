@@ -1,0 +1,3858 @@
+[
+  {
+    "id": "dmc3713",
+    "brand": "DMC",
+    "name": "3713",
+    "order": 0,
+    "rgb": "#f3cecd",
+    "substitutes": { "ariadna": ["1543"], "anchor": ["01020"] }
+  },
+  {
+    "id": "dmc761",
+    "brand": "DMC",
+    "name": "761",
+    "order": 1,
+    "rgb": "#eab8b9",
+    "substitutes": { "ariadna": ["1564"], "anchor": ["01021"] }
+  },
+  {
+    "id": "dmc760",
+    "brand": "DMC",
+    "name": "760",
+    "order": 2,
+    "rgb": "#d28c8e",
+    "substitutes": { "ariadna": ["1755"], "anchor": ["01022"] }
+  },
+  {
+    "id": "dmc3712",
+    "brand": "DMC",
+    "name": "3712",
+    "order": 3,
+    "rgb": "#bd6868",
+    "substitutes": { "ariadna": ["1539"], "anchor": ["01023"] }
+  },
+  {
+    "id": "dmc3328",
+    "brand": "DMC",
+    "name": "3328",
+    "order": 4,
+    "rgb": "#a74a4a",
+    "substitutes": { "ariadna": ["1760"], "anchor": ["01024"] }
+  },
+  {
+    "id": "dmc347",
+    "brand": "DMC",
+    "name": "347",
+    "order": 5,
+    "rgb": "#92202a",
+    "substitutes": { "ariadna": ["1563"], "anchor": ["01025"] }
+  },
+  {
+    "id": "dmc353",
+    "brand": "DMC",
+    "name": "353",
+    "order": 6,
+    "rgb": "#f2c1b0",
+    "substitutes": { "ariadna": ["1536"], "anchor": ["00006"] }
+  },
+  {
+    "id": "dmc352",
+    "brand": "DMC",
+    "name": "352",
+    "order": 7,
+    "rgb": "#d98676",
+    "substitutes": { "ariadna": ["1538"], "anchor": ["00009"] }
+  },
+  {
+    "id": "dmc351",
+    "brand": "DMC",
+    "name": "351",
+    "order": 8,
+    "rgb": "#b7493d",
+    "substitutes": { "ariadna": ["1539"], "anchor": ["00010"] }
+  },
+  {
+    "id": "dmc350",
+    "brand": "DMC",
+    "name": "350",
+    "order": 9,
+    "rgb": "#a6322a",
+    "substitutes": { "ariadna": ["1540"], "anchor": ["00011"] }
+  },
+  {
+    "id": "dmc349",
+    "brand": "DMC",
+    "name": "349",
+    "order": 10,
+    "rgb": "#950a1e",
+    "substitutes": { "ariadna": ["1541"], "anchor": ["00013"] }
+  },
+  {
+    "id": "dmc817",
+    "brand": "DMC",
+    "name": "817",
+    "order": 11,
+    "rgb": "#8f0115",
+    "substitutes": { "ariadna": ["1542"], "anchor": ["00013"] }
+  },
+  {
+    "id": "dmc304",
+    "brand": "DMC",
+    "name": "304",
+    "order": 12,
+    "rgb": "#7f002d",
+    "substitutes": { "ariadna": ["1554"], "anchor": ["01005"] }
+  },
+  {
+    "id": "dmc3833",
+    "brand": "DMC",
+    "name": "3833",
+    "order": 13,
+    "rgb": "#c26f80",
+    "substitutes": { "ariadna": ["1565"], "anchor": ["00052"] }
+  },
+  {
+    "id": "dmc3832",
+    "brand": "DMC",
+    "name": "3832",
+    "order": 14,
+    "rgb": "#b1475d",
+    "substitutes": { "ariadna": ["1760"], "anchor": ["00039"] }
+  },
+  {
+    "id": "dmc3831",
+    "brand": "DMC",
+    "name": "3831",
+    "order": 15,
+    "rgb": "#90253b",
+    "substitutes": { "ariadna": ["1563"], "anchor": ["00042"] }
+  },
+  {
+    "id": "dmc777",
+    "brand": "DMC",
+    "name": "777",
+    "order": 16,
+    "rgb": "#5f0224",
+    "substitutes": { "ariadna": ["1566"], "anchor": ["00022"] }
+  },
+  {
+    "id": "dmc3801",
+    "brand": "DMC",
+    "name": "3801",
+    "order": 17,
+    "rgb": "#b62e3b",
+    "substitutes": { "ariadna": ["1546"], "anchor": ["01098"] }
+  },
+  {
+    "id": "dmc666",
+    "brand": "DMC",
+    "name": "666",
+    "order": 18,
+    "rgb": "#980015",
+    "substitutes": { "ariadna": ["1553"], "anchor": ["00046"] }
+  },
+  {
+    "id": "dmc321",
+    "brand": "DMC",
+    "name": "321",
+    "order": 19,
+    "rgb": "#7e0018",
+    "substitutes": { "ariadna": ["1554"], "anchor": ["09046"] }
+  },
+  {
+    "id": "dmc498",
+    "brand": "DMC",
+    "name": "498",
+    "order": 20,
+    "rgb": "#67001a",
+    "substitutes": { "ariadna": ["1555"], "anchor": ["01006"] }
+  },
+  {
+    "id": "dmc816",
+    "brand": "DMC",
+    "name": "816",
+    "order": 21,
+    "rgb": "#6e001d",
+    "substitutes": { "ariadna": ["1566"], "anchor": ["00020"] }
+  },
+  {
+    "id": "dmc815",
+    "brand": "DMC",
+    "name": "815",
+    "order": 22,
+    "rgb": "#51001c",
+    "substitutes": { "ariadna": ["1556"], "anchor": ["00022"] }
+  },
+  {
+    "id": "dmc814",
+    "brand": "DMC",
+    "name": "814",
+    "order": 23,
+    "rgb": "#46041b",
+    "substitutes": { "ariadna": ["1557"], "anchor": ["00045"] }
+  },
+  {
+    "id": "dmc894",
+    "brand": "DMC",
+    "name": "894",
+    "order": 24,
+    "rgb": "#e898ad",
+    "substitutes": { "ariadna": ["1550"], "anchor": ["00026"] }
+  },
+  {
+    "id": "dmc893",
+    "brand": "DMC",
+    "name": "893",
+    "order": 25,
+    "rgb": "#d2637c",
+    "substitutes": { "ariadna": ["1559"], "anchor": ["00027"] }
+  },
+  {
+    "id": "dmc892",
+    "brand": "DMC",
+    "name": "892",
+    "order": 26,
+    "rgb": "#cb4e5d",
+    "substitutes": { "ariadna": ["1552"], "anchor": ["00035"] }
+  },
+  {
+    "id": "dmc891",
+    "brand": "DMC",
+    "name": "891",
+    "order": 27,
+    "rgb": "#c13955",
+    "substitutes": { "ariadna": ["1552"], "anchor": ["00029"] }
+  },
+  {
+    "id": "dmc818",
+    "brand": "DMC",
+    "name": "818",
+    "order": 28,
+    "rgb": "#f7d4d3",
+    "substitutes": { "ariadna": ["1543"], "anchor": ["01020"] }
+  },
+  {
+    "id": "dmc957",
+    "brand": "DMC",
+    "name": "957",
+    "order": 29,
+    "rgb": "#e999b2",
+    "substitutes": { "ariadna": ["1550"], "anchor": ["00050"] }
+  },
+  {
+    "id": "dmc956",
+    "brand": "DMC",
+    "name": "956",
+    "order": 30,
+    "rgb": "#d35d86",
+    "substitutes": { "ariadna": ["1551"], "anchor": ["00028"] }
+  },
+  {
+    "id": "dmc3708",
+    "brand": "DMC",
+    "name": "3708",
+    "order": 31,
+    "rgb": "#ea9baf",
+    "substitutes": { "ariadna": ["1558"], "anchor": ["00031"] }
+  },
+  {
+    "id": "dmc3706",
+    "brand": "DMC",
+    "name": "3706",
+    "order": 32,
+    "rgb": "#e07b8d",
+    "substitutes": { "ariadna": ["1545"], "anchor": ["00033"] }
+  },
+  {
+    "id": "dmc3705",
+    "brand": "DMC",
+    "name": "3705",
+    "order": 33,
+    "rgb": "#c14450",
+    "substitutes": { "ariadna": ["1552"], "anchor": ["00035"] }
+  },
+  {
+    "id": "dmc963",
+    "brand": "DMC",
+    "name": "963",
+    "order": 34,
+    "rgb": "#f4cbd0",
+    "substitutes": { "ariadna": ["1549"], "anchor": ["00048"] }
+  },
+  {
+    "id": "dmc3716",
+    "brand": "DMC",
+    "name": "3716",
+    "order": 35,
+    "rgb": "#e4aaba",
+    "substitutes": { "ariadna": ["1564"], "anchor": ["00025"] }
+  },
+  {
+    "id": "dmc962",
+    "brand": "DMC",
+    "name": "962",
+    "order": 36,
+    "rgb": "#c78093",
+    "substitutes": { "ariadna": ["1567"], "anchor": ["00075"] }
+  },
+  {
+    "id": "dmc961",
+    "brand": "DMC",
+    "name": "961",
+    "order": 37,
+    "rgb": "#bf647f",
+    "substitutes": { "ariadna": ["1565"], "anchor": ["00076"] }
+  },
+  {
+    "id": "dmc309",
+    "brand": "DMC",
+    "name": "309",
+    "order": 38,
+    "rgb": "#913244",
+    "substitutes": { "ariadna": ["1563"], "anchor": ["00042"] }
+  },
+  {
+    "id": "dmc819",
+    "brand": "DMC",
+    "name": "819",
+    "order": 39,
+    "rgb": "#fce6de",
+    "substitutes": { "ariadna": ["1745"], "anchor": ["00271"] }
+  },
+  {
+    "id": "dmc3326",
+    "brand": "DMC",
+    "name": "3326",
+    "order": 40,
+    "rgb": "#e3a5af",
+    "substitutes": { "ariadna": ["1564"], "anchor": ["00024"] }
+  },
+  {
+    "id": "dmc899",
+    "brand": "DMC",
+    "name": "899",
+    "order": 41,
+    "rgb": "#c7718a",
+    "substitutes": { "ariadna": ["1567"], "anchor": ["00052"] }
+  },
+  {
+    "id": "dmc335",
+    "brand": "DMC",
+    "name": "335",
+    "order": 42,
+    "rgb": "#b75470",
+    "substitutes": { "ariadna": ["1565"], "anchor": ["00076"] }
+  },
+  {
+    "id": "dmc326",
+    "brand": "DMC",
+    "name": "326",
+    "order": 43,
+    "rgb": "#7a002e",
+    "substitutes": { "ariadna": ["1561"], "anchor": ["01005"] }
+  },
+  {
+    "id": "dmc151",
+    "brand": "DMC",
+    "name": "151",
+    "order": 44,
+    "rgb": "#e8bbc4",
+    "substitutes": { "ariadna": ["1549"], "anchor": ["00023"] }
+  },
+  {
+    "id": "dmc3354",
+    "brand": "DMC",
+    "name": "3354",
+    "order": 45,
+    "rgb": "#d79fac",
+    "substitutes": { "ariadna": ["1558"], "anchor": ["00025"] }
+  },
+  {
+    "id": "dmc3733",
+    "brand": "DMC",
+    "name": "3733",
+    "order": 46,
+    "rgb": "#c17a8d",
+    "substitutes": { "ariadna": ["1567"], "anchor": ["00075"] }
+  },
+  {
+    "id": "dmc3731",
+    "brand": "DMC",
+    "name": "3731",
+    "order": 47,
+    "rgb": "#aa4e6b",
+    "substitutes": { "ariadna": ["1570"], "anchor": ["00076"] }
+  },
+  {
+    "id": "dmc3350",
+    "brand": "DMC",
+    "name": "3350",
+    "order": 48,
+    "rgb": "#882c4a",
+    "substitutes": { "ariadna": ["1563"], "anchor": ["00065"] }
+  },
+  {
+    "id": "dmc150",
+    "brand": "DMC",
+    "name": "150",
+    "order": 49,
+    "rgb": "#751333",
+    "substitutes": { "ariadna": ["1561"], "anchor": ["00059"] }
+  },
+  {
+    "id": "dmc23",
+    "brand": "DMC",
+    "name": "23",
+    "order": 50,
+    "rgb": "#f9eaea",
+    "substitutes": { "ariadna": ["1543"], "anchor": ["00271"] }
+  },
+  {
+    "id": "dmc3689",
+    "brand": "DMC",
+    "name": "3689",
+    "order": 51,
+    "rgb": "#e7bfcd",
+    "substitutes": { "ariadna": ["1549"], "anchor": ["00049"] }
+  },
+  {
+    "id": "dmc3688",
+    "brand": "DMC",
+    "name": "3688",
+    "order": 52,
+    "rgb": "#ba8198",
+    "substitutes": { "ariadna": ["1572"], "anchor": ["00060"] }
+  },
+  {
+    "id": "dmc3687",
+    "brand": "DMC",
+    "name": "3687",
+    "order": 53,
+    "rgb": "#a25a76",
+    "substitutes": { "ariadna": ["1570"], "anchor": ["00077"] }
+  },
+  {
+    "id": "dmc3803",
+    "brand": "DMC",
+    "name": "3803",
+    "order": 54,
+    "rgb": "#6c2a47",
+    "substitutes": { "ariadna": ["1571"], "anchor": ["00972"] }
+  },
+  {
+    "id": "dmc3685",
+    "brand": "DMC",
+    "name": "3685",
+    "order": 55,
+    "rgb": "#530d2b",
+    "substitutes": { "ariadna": ["1572"], "anchor": ["01028"] }
+  },
+  {
+    "id": "dmc605",
+    "brand": "DMC",
+    "name": "605",
+    "order": 56,
+    "rgb": "#e9bdce",
+    "substitutes": { "ariadna": ["1564"], "anchor": ["01094"] }
+  },
+  {
+    "id": "dmc604",
+    "brand": "DMC",
+    "name": "604",
+    "order": 57,
+    "rgb": "#e2a6be",
+    "substitutes": { "ariadna": ["1550"], "anchor": ["00025"] }
+  },
+  {
+    "id": "dmc603",
+    "brand": "DMC",
+    "name": "603",
+    "order": 58,
+    "rgb": "#d284a5",
+    "substitutes": { "ariadna": ["1567"], "anchor": ["00055"] }
+  },
+  {
+    "id": "dmc602",
+    "brand": "DMC",
+    "name": "602",
+    "order": 59,
+    "rgb": "#bb5481",
+    "substitutes": { "ariadna": ["1588"], "anchor": ["00063"] }
+  },
+  {
+    "id": "dmc601",
+    "brand": "DMC",
+    "name": "601",
+    "order": 60,
+    "rgb": "#a53061",
+    "substitutes": { "ariadna": [""], "anchor": ["00057"] }
+  },
+  {
+    "id": "dmc600",
+    "brand": "DMC",
+    "name": "600",
+    "order": 61,
+    "rgb": "#931950",
+    "substitutes": { "ariadna": ["1561"], "anchor": ["00057"] }
+  },
+  {
+    "id": "dmc3806",
+    "brand": "DMC",
+    "name": "3806",
+    "order": 62,
+    "rgb": "#d48cac",
+    "substitutes": { "ariadna": ["1567"], "anchor": ["00062"] }
+  },
+  {
+    "id": "dmc3805",
+    "brand": "DMC",
+    "name": "3805",
+    "order": 63,
+    "rgb": "#b0497e",
+    "substitutes": { "ariadna": ["1568"], "anchor": ["00063"] }
+  },
+  {
+    "id": "dmc3804",
+    "brand": "DMC",
+    "name": "3804",
+    "order": 64,
+    "rgb": "#a73970",
+    "substitutes": { "ariadna": ["1560"], "anchor": ["00063"] }
+  },
+  {
+    "id": "dmc3609",
+    "brand": "DMC",
+    "name": "3609",
+    "order": 65,
+    "rgb": "#ddb5d2",
+    "substitutes": { "ariadna": ["1602"], "anchor": ["00085"] }
+  },
+  {
+    "id": "dmc3608",
+    "brand": "DMC",
+    "name": "3608",
+    "order": 66,
+    "rgb": "#c994b7",
+    "substitutes": { "ariadna": ["1601"], "anchor": ["00086"] }
+  },
+  {
+    "id": "dmc3607",
+    "brand": "DMC",
+    "name": "3607",
+    "order": 67,
+    "rgb": "#9c4c8d",
+    "substitutes": { "ariadna": ["1600"], "anchor": ["00087"] }
+  },
+  {
+    "id": "dmc718",
+    "brand": "DMC",
+    "name": "718",
+    "order": 68,
+    "rgb": "#841b61",
+    "substitutes": { "ariadna": ["1570"], "anchor": ["00088"] }
+  },
+  {
+    "id": "dmc917",
+    "brand": "DMC",
+    "name": "917",
+    "order": 69,
+    "rgb": "#892867",
+    "substitutes": { "ariadna": ["1599"], "anchor": ["00078"] }
+  },
+  {
+    "id": "dmc915",
+    "brand": "DMC",
+    "name": "915",
+    "order": 70,
+    "rgb": "#56002b",
+    "substitutes": { "ariadna": ["1566"], "anchor": ["01029"] }
+  },
+  {
+    "id": "dmc33",
+    "brand": "DMC",
+    "name": "33",
+    "order": 71,
+    "rgb": "#814a7e",
+    "substitutes": { "ariadna": ["1600"], "anchor": ["00087"] }
+  },
+  {
+    "id": "dmc34",
+    "brand": "DMC",
+    "name": "34",
+    "order": 72,
+    "rgb": "#68175c",
+    "substitutes": { "ariadna": ["1570"], "anchor": ["00088"] }
+  },
+  {
+    "id": "dmc35",
+    "brand": "DMC",
+    "name": "35",
+    "order": 73,
+    "rgb": "#501141",
+    "substitutes": { "ariadna": ["1572"], "anchor": ["01028"] }
+  },
+  {
+    "id": "dmc778",
+    "brand": "DMC",
+    "name": "778",
+    "order": 74,
+    "rgb": "#cca8aa",
+    "substitutes": { "ariadna": ["1578"], "anchor": ["00968"] }
+  },
+  {
+    "id": "dmc3727",
+    "brand": "DMC",
+    "name": "3727",
+    "order": 75,
+    "rgb": "#c49ea9",
+    "substitutes": { "ariadna": ["1578"], "anchor": ["01016"] }
+  },
+  {
+    "id": "dmc316",
+    "brand": "DMC",
+    "name": "316",
+    "order": 76,
+    "rgb": "#ac8396",
+    "substitutes": { "ariadna": ["1579"], "anchor": ["01017"] }
+  },
+  {
+    "id": "dmc3726",
+    "brand": "DMC",
+    "name": "3726",
+    "order": 77,
+    "rgb": "#87565e",
+    "substitutes": { "ariadna": ["1577"], "anchor": ["01018"] }
+  },
+  {
+    "id": "dmc315",
+    "brand": "DMC",
+    "name": "315",
+    "order": 78,
+    "rgb": "#6a3841",
+    "substitutes": { "ariadna": ["1772"], "anchor": ["01019"] }
+  },
+  {
+    "id": "dmc3802",
+    "brand": "DMC",
+    "name": "3802",
+    "order": 79,
+    "rgb": "#552331",
+    "substitutes": { "ariadna": ["1773"], "anchor": ["01019"] }
+  },
+  {
+    "id": "dmc902",
+    "brand": "DMC",
+    "name": "902",
+    "order": 80,
+    "rgb": "#540d22",
+    "substitutes": { "ariadna": ["1572"], "anchor": ["00897"] }
+  },
+  {
+    "id": "dmc3836",
+    "brand": "DMC",
+    "name": "3836",
+    "order": 81,
+    "rgb": "#a38aa4",
+    "substitutes": { "ariadna": ["1586"], "anchor": ["00090"] }
+  },
+  {
+    "id": "dmc3835",
+    "brand": "DMC",
+    "name": "3835",
+    "order": 82,
+    "rgb": "#775779",
+    "substitutes": { "ariadna": ["1580"], "anchor": ["00098"] }
+  },
+  {
+    "id": "dmc3834",
+    "brand": "DMC",
+    "name": "3834",
+    "order": 83,
+    "rgb": "#4a2748",
+    "substitutes": { "ariadna": ["1585"], "anchor": ["00112"] }
+  },
+  {
+    "id": "dmc154",
+    "brand": "DMC",
+    "name": "154",
+    "order": 84,
+    "rgb": "#25031f",
+    "substitutes": { "ariadna": ["1584"], "anchor": ["00873"] }
+  },
+  {
+    "id": "dmc24",
+    "brand": "DMC",
+    "name": "24",
+    "order": 85,
+    "rgb": "#e9dee4",
+    "substitutes": { "ariadna": ["1813"], "anchor": ["00342"] }
+  },
+  {
+    "id": "dmc25",
+    "brand": "DMC",
+    "name": "25",
+    "order": 86,
+    "rgb": "#dbd5e0",
+    "substitutes": { "ariadna": ["1581"], "anchor": ["00342"] }
+  },
+  {
+    "id": "dmc26",
+    "brand": "DMC",
+    "name": "26",
+    "order": 87,
+    "rgb": "#c9c8da",
+    "substitutes": { "ariadna": ["1631"], "anchor": ["00120"] }
+  },
+  {
+    "id": "dmc211",
+    "brand": "DMC",
+    "name": "211",
+    "order": 88,
+    "rgb": "#ccc2de",
+    "substitutes": { "ariadna": ["1587"], "anchor": ["00103"] }
+  },
+  {
+    "id": "dmc210",
+    "brand": "DMC",
+    "name": "210",
+    "order": 89,
+    "rgb": "#b2a5cd",
+    "substitutes": { "ariadna": ["1592"], "anchor": ["00108"] }
+  },
+  {
+    "id": "dmc209",
+    "brand": "DMC",
+    "name": "209",
+    "order": 90,
+    "rgb": "#9583b4",
+    "substitutes": { "ariadna": ["1601"], "anchor": ["00118"] }
+  },
+  {
+    "id": "dmc208",
+    "brand": "DMC",
+    "name": "208",
+    "order": 91,
+    "rgb": "#6f5497",
+    "substitutes": { "ariadna": ["1591"], "anchor": ["00111"] }
+  },
+  {
+    "id": "dmc3837",
+    "brand": "DMC",
+    "name": "3837",
+    "order": 92,
+    "rgb": "#543a82",
+    "substitutes": { "ariadna": ["1594"], "anchor": ["00099"] }
+  },
+  {
+    "id": "dmc327",
+    "brand": "DMC",
+    "name": "327",
+    "order": 93,
+    "rgb": "#593e63",
+    "substitutes": { "ariadna": ["1585"], "anchor": ["00112"] }
+  },
+  {
+    "id": "dmc153",
+    "brand": "DMC",
+    "name": "153",
+    "order": 94,
+    "rgb": "#d0bbd3",
+    "substitutes": { "ariadna": ["1593"], "anchor": ["00103"] }
+  },
+  {
+    "id": "dmc554",
+    "brand": "DMC",
+    "name": "554",
+    "order": 95,
+    "rgb": "#b69ebe",
+    "substitutes": { "ariadna": ["1597"], "anchor": ["00096"] }
+  },
+  {
+    "id": "dmc553",
+    "brand": "DMC",
+    "name": "553",
+    "order": 96,
+    "rgb": "#7a5f96",
+    "substitutes": { "ariadna": ["1596"], "anchor": ["00092"] }
+  },
+  {
+    "id": "dmc552",
+    "brand": "DMC",
+    "name": "552",
+    "order": 97,
+    "rgb": "#65467f",
+    "substitutes": { "ariadna": ["1595"], "anchor": ["00101"] }
+  },
+  {
+    "id": "dmc550",
+    "brand": "DMC",
+    "name": "550",
+    "order": 98,
+    "rgb": "#350d47",
+    "substitutes": { "ariadna": ["1590"], "anchor": ["00102"] }
+  },
+  {
+    "id": "dmc3743",
+    "brand": "DMC",
+    "name": "3743",
+    "order": 99,
+    "rgb": "#c3bcc4",
+    "substitutes": { "ariadna": ["1581"], "anchor": ["00869"] }
+  },
+  {
+    "id": "dmc3042",
+    "brand": "DMC",
+    "name": "3042",
+    "order": 100,
+    "rgb": "#a399a5",
+    "substitutes": { "ariadna": ["1582"], "anchor": ["00870"] }
+  },
+  {
+    "id": "dmc3041",
+    "brand": "DMC",
+    "name": "3041",
+    "order": 101,
+    "rgb": "#725c6a",
+    "substitutes": { "ariadna": ["1580"], "anchor": ["00871"] }
+  },
+  {
+    "id": "dmc3740",
+    "brand": "DMC",
+    "name": "3740",
+    "order": 102,
+    "rgb": "#553c48",
+    "substitutes": { "ariadna": ["1583"], "anchor": ["00872"] }
+  },
+  {
+    "id": "dmc27",
+    "brand": "DMC",
+    "name": "27",
+    "order": 103,
+    "rgb": "#e2dfe1",
+    "substitutes": { "ariadna": ["1581"], "anchor": ["00234"] }
+  },
+  {
+    "id": "dmc28",
+    "brand": "DMC",
+    "name": "28",
+    "order": 104,
+    "rgb": "#797284",
+    "substitutes": { "ariadna": ["1582"], "anchor": ["00235"] }
+  },
+  {
+    "id": "dmc29",
+    "brand": "DMC",
+    "name": "29",
+    "order": 105,
+    "rgb": "#3c2e44",
+    "substitutes": { "ariadna": ["1585"], "anchor": ["00872"] }
+  },
+  {
+    "id": "dmc3747",
+    "brand": "DMC",
+    "name": "3747",
+    "order": 106,
+    "rgb": "#c8ceda",
+    "substitutes": { "ariadna": ["1631"], "anchor": ["00120"] }
+  },
+  {
+    "id": "dmc341",
+    "brand": "DMC",
+    "name": "341",
+    "order": 107,
+    "rgb": "#9cafc9",
+    "substitutes": { "ariadna": ["1607"], "anchor": ["00117"] }
+  },
+  {
+    "id": "dmc156",
+    "brand": "DMC",
+    "name": "156",
+    "order": 108,
+    "rgb": "#8197ba",
+    "substitutes": { "ariadna": ["1605"], "anchor": ["00130"] }
+  },
+  {
+    "id": "dmc340",
+    "brand": "DMC",
+    "name": "340",
+    "order": 109,
+    "rgb": "#7783b4",
+    "substitutes": { "ariadna": ["1604"], "anchor": ["00118"] }
+  },
+  {
+    "id": "dmc155",
+    "brand": "DMC",
+    "name": "155",
+    "order": 110,
+    "rgb": "#787fb2",
+    "substitutes": { "ariadna": ["1604"], "anchor": ["00118"] }
+  },
+  {
+    "id": "dmc3746",
+    "brand": "DMC",
+    "name": "3746",
+    "order": 111,
+    "rgb": "#555f9a",
+    "substitutes": { "ariadna": ["1591"], "anchor": ["01030"] }
+  },
+  {
+    "id": "dmc333",
+    "brand": "DMC",
+    "name": "333",
+    "order": 112,
+    "rgb": "#3c3e81",
+    "substitutes": { "ariadna": ["1609"], "anchor": ["00110"] }
+  },
+  {
+    "id": "dmc30",
+    "brand": "DMC",
+    "name": "30",
+    "order": 113,
+    "rgb": "#7e7d9e",
+    "substitutes": { "ariadna": ["1596"], "anchor": ["00109"] }
+  },
+  {
+    "id": "dmc31",
+    "brand": "DMC",
+    "name": "31",
+    "order": 114,
+    "rgb": "#5c5b80",
+    "substitutes": { "ariadna": ["1616"], "anchor": ["00122"] }
+  },
+  {
+    "id": "dmc32",
+    "brand": "DMC",
+    "name": "32",
+    "order": 115,
+    "rgb": "#3e4063",
+    "substitutes": { "ariadna": ["1633"], "anchor": ["00139"] }
+  },
+  {
+    "id": "dmc157",
+    "brand": "DMC",
+    "name": "157",
+    "order": 116,
+    "rgb": "#a5bbcf",
+    "substitutes": { "ariadna": ["1621"], "anchor": ["00144"] }
+  },
+  {
+    "id": "dmc794",
+    "brand": "DMC",
+    "name": "794",
+    "order": 117,
+    "rgb": "#84a0ba",
+    "substitutes": { "ariadna": ["1622"], "anchor": ["00121"] }
+  },
+  {
+    "id": "dmc793",
+    "brand": "DMC",
+    "name": "793",
+    "order": 118,
+    "rgb": "#667c9c",
+    "substitutes": { "ariadna": ["1637"], "anchor": ["00176"] }
+  },
+  {
+    "id": "dmc3807",
+    "brand": "DMC",
+    "name": "3807",
+    "order": 119,
+    "rgb": "#495d89",
+    "substitutes": { "ariadna": ["1616"], "anchor": ["00122"] }
+  },
+  {
+    "id": "dmc792",
+    "brand": "DMC",
+    "name": "792",
+    "order": 120,
+    "rgb": "#314d82",
+    "substitutes": { "ariadna": ["1605"], "anchor": ["00941"] }
+  },
+  {
+    "id": "dmc158",
+    "brand": "DMC",
+    "name": "158",
+    "order": 121,
+    "rgb": "#2b406c",
+    "substitutes": { "ariadna": ["1606"], "anchor": ["00139"] }
+  },
+  {
+    "id": "dmc791",
+    "brand": "DMC",
+    "name": "791",
+    "order": 122,
+    "rgb": "#0c2557",
+    "substitutes": { "ariadna": ["1606"], "anchor": ["00123"] }
+  },
+  {
+    "id": "dmc3840",
+    "brand": "DMC",
+    "name": "3840",
+    "order": 123,
+    "rgb": "#a7c1d9",
+    "substitutes": { "ariadna": ["1621"], "anchor": ["00144"] }
+  },
+  {
+    "id": "dmc3839",
+    "brand": "DMC",
+    "name": "3839",
+    "order": 124,
+    "rgb": "#7490bb",
+    "substitutes": { "ariadna": ["1623"], "anchor": ["00136"] }
+  },
+  {
+    "id": "dmc3838",
+    "brand": "DMC",
+    "name": "3838",
+    "order": 125,
+    "rgb": "#5b79aa",
+    "substitutes": { "ariadna": ["1628"], "anchor": ["00118"] }
+  },
+  {
+    "id": "dmc800",
+    "brand": "DMC",
+    "name": "800",
+    "order": 126,
+    "rgb": "#a7c2d5",
+    "substitutes": { "ariadna": ["1621"], "anchor": ["00144"] }
+  },
+  {
+    "id": "dmc809",
+    "brand": "DMC",
+    "name": "809",
+    "order": 127,
+    "rgb": "#88a8c8",
+    "substitutes": { "ariadna": ["1622"], "anchor": ["00130"] }
+  },
+  {
+    "id": "dmc799",
+    "brand": "DMC",
+    "name": "799",
+    "order": 128,
+    "rgb": "#668caf",
+    "substitutes": { "ariadna": ["1623"], "anchor": ["00136"] }
+  },
+  {
+    "id": "dmc798",
+    "brand": "DMC",
+    "name": "798",
+    "order": 129,
+    "rgb": "#306598",
+    "substitutes": { "ariadna": ["1628"], "anchor": ["00137"] }
+  },
+  {
+    "id": "dmc797",
+    "brand": "DMC",
+    "name": "797",
+    "order": 130,
+    "rgb": "#1d4179",
+    "substitutes": { "ariadna": ["1624"], "anchor": ["00139"] }
+  },
+  {
+    "id": "dmc796",
+    "brand": "DMC",
+    "name": "796",
+    "order": 131,
+    "rgb": "#002a65",
+    "substitutes": { "ariadna": ["1634"], "anchor": ["00133"] }
+  },
+  {
+    "id": "dmc820",
+    "brand": "DMC",
+    "name": "820",
+    "order": 132,
+    "rgb": "#001a53",
+    "substitutes": { "ariadna": ["1625"], "anchor": ["00134"] }
+  },
+  {
+    "id": "dmc162",
+    "brand": "DMC",
+    "name": "162",
+    "order": 133,
+    "rgb": "#c8dbdf",
+    "substitutes": { "ariadna": ["1631"], "anchor": ["00159"] }
+  },
+  {
+    "id": "dmc827",
+    "brand": "DMC",
+    "name": "827",
+    "order": 134,
+    "rgb": "#acc8d5",
+    "substitutes": { "ariadna": ["1621"], "anchor": ["00160"] }
+  },
+  {
+    "id": "dmc813",
+    "brand": "DMC",
+    "name": "813",
+    "order": 135,
+    "rgb": "#7ca3ba",
+    "substitutes": { "ariadna": ["1615"], "anchor": ["00161"] }
+  },
+  {
+    "id": "dmc826",
+    "brand": "DMC",
+    "name": "826",
+    "order": 136,
+    "rgb": "#4e7fa2",
+    "substitutes": { "ariadna": ["1628"], "anchor": ["00978"] }
+  },
+  {
+    "id": "dmc825",
+    "brand": "DMC",
+    "name": "825",
+    "order": 137,
+    "rgb": "#06537b",
+    "substitutes": { "ariadna": ["1629"], "anchor": ["00162"] }
+  },
+  {
+    "id": "dmc824",
+    "brand": "DMC",
+    "name": "824",
+    "order": 138,
+    "rgb": "#003c67",
+    "substitutes": { "ariadna": ["1629"], "anchor": ["00940"] }
+  },
+  {
+    "id": "dmc996",
+    "brand": "DMC",
+    "name": "996",
+    "order": 139,
+    "rgb": "#3aabd1",
+    "substitutes": { "ariadna": ["1620"], "anchor": ["00433"] }
+  },
+  {
+    "id": "dmc3843",
+    "brand": "DMC",
+    "name": "3843",
+    "order": 140,
+    "rgb": "#0088b7",
+    "substitutes": { "ariadna": ["1620"], "anchor": ["01089"] }
+  },
+  {
+    "id": "dmc995",
+    "brand": "DMC",
+    "name": "995",
+    "order": 141,
+    "rgb": "#007baf",
+    "substitutes": { "ariadna": ["1612"], "anchor": ["00410"] }
+  },
+  {
+    "id": "dmc3846",
+    "brand": "DMC",
+    "name": "3846",
+    "order": 142,
+    "rgb": "#38c4d3",
+    "substitutes": { "ariadna": ["1653"], "anchor": ["01090"] }
+  },
+  {
+    "id": "dmc3845",
+    "brand": "DMC",
+    "name": "3845",
+    "order": 143,
+    "rgb": "#00abbd",
+    "substitutes": { "ariadna": ["1653"], "anchor": ["01090"] }
+  },
+  {
+    "id": "dmc3844",
+    "brand": "DMC",
+    "name": "3844",
+    "order": 144,
+    "rgb": "#0088a1",
+    "substitutes": { "ariadna": ["1655"], "anchor": ["00169"] }
+  },
+  {
+    "id": "dmc159",
+    "brand": "DMC",
+    "name": "159",
+    "order": 145,
+    "rgb": "#a6adbe",
+    "substitutes": { "ariadna": ["1632"], "anchor": ["00117"] }
+  },
+  {
+    "id": "dmc160",
+    "brand": "DMC",
+    "name": "160",
+    "order": 146,
+    "rgb": "#7787a0",
+    "substitutes": { "ariadna": ["1634"], "anchor": ["00175"] }
+  },
+  {
+    "id": "dmc161",
+    "brand": "DMC",
+    "name": "161",
+    "order": 147,
+    "rgb": "#51607c",
+    "substitutes": { "ariadna": ["1633"], "anchor": ["00939"] }
+  },
+  {
+    "id": "dmc3756",
+    "brand": "DMC",
+    "name": "3756",
+    "order": 148,
+    "rgb": "#e5e8e2",
+    "substitutes": { "ariadna": ["1610"], "anchor": ["01037"] }
+  },
+  {
+    "id": "dmc775",
+    "brand": "DMC",
+    "name": "775",
+    "order": 149,
+    "rgb": "#c7d6d9",
+    "substitutes": { "ariadna": ["1639"], "anchor": ["00128"] }
+  },
+  {
+    "id": "dmc3841",
+    "brand": "DMC",
+    "name": "3841",
+    "order": 150,
+    "rgb": "#bfd2d9",
+    "substitutes": { "ariadna": ["1614"], "anchor": ["00128"] }
+  },
+  {
+    "id": "dmc3325",
+    "brand": "DMC",
+    "name": "3325",
+    "order": 151,
+    "rgb": "#a1bdcd",
+    "substitutes": { "ariadna": ["1614"], "anchor": ["00129"] }
+  },
+  {
+    "id": "dmc3755",
+    "brand": "DMC",
+    "name": "3755",
+    "order": 152,
+    "rgb": "#86abc2",
+    "substitutes": { "ariadna": ["1615"], "anchor": ["00140"] }
+  },
+  {
+    "id": "dmc334",
+    "brand": "DMC",
+    "name": "334",
+    "order": 153,
+    "rgb": "#5b88a4",
+    "substitutes": { "ariadna": ["1623"], "anchor": ["00977"] }
+  },
+  {
+    "id": "dmc322",
+    "brand": "DMC",
+    "name": "322",
+    "order": 154,
+    "rgb": "#577ea2",
+    "substitutes": { "ariadna": ["1616"], "anchor": ["00978"] }
+  },
+  {
+    "id": "dmc312",
+    "brand": "DMC",
+    "name": "312",
+    "order": 155,
+    "rgb": "#0e4469",
+    "substitutes": { "ariadna": ["1629"], "anchor": ["00979"] }
+  },
+  {
+    "id": "dmc803",
+    "brand": "DMC",
+    "name": "803",
+    "order": 156,
+    "rgb": "#003558",
+    "substitutes": { "ariadna": ["1613"], "anchor": ["00149"] }
+  },
+  {
+    "id": "dmc336",
+    "brand": "DMC",
+    "name": "336",
+    "order": 157,
+    "rgb": "#0f2a47",
+    "substitutes": { "ariadna": ["1627"], "anchor": ["00150"] }
+  },
+  {
+    "id": "dmc823",
+    "brand": "DMC",
+    "name": "823",
+    "order": 158,
+    "rgb": "#090d25",
+    "substitutes": { "ariadna": ["1626"], "anchor": ["00127"] }
+  },
+  {
+    "id": "dmc939",
+    "brand": "DMC",
+    "name": "939",
+    "order": 159,
+    "rgb": "#0b0c1c",
+    "substitutes": { "ariadna": ["1630"], "anchor": ["00152"] }
+  },
+  {
+    "id": "dmc3753",
+    "brand": "DMC",
+    "name": "3753",
+    "order": 160,
+    "rgb": "#c7d3d7",
+    "substitutes": { "ariadna": ["1631"], "anchor": ["01096"] }
+  },
+  {
+    "id": "dmc3752",
+    "brand": "DMC",
+    "name": "3752",
+    "order": 161,
+    "rgb": "#adbfc7",
+    "substitutes": { "ariadna": ["1632"], "anchor": ["00343"] }
+  },
+  {
+    "id": "dmc932",
+    "brand": "DMC",
+    "name": "932",
+    "order": 162,
+    "rgb": "#8ba1af",
+    "substitutes": { "ariadna": ["1634"], "anchor": ["00920"] }
+  },
+  {
+    "id": "dmc931",
+    "brand": "DMC",
+    "name": "931",
+    "order": 163,
+    "rgb": "#5b7a8e",
+    "substitutes": { "ariadna": ["1637"], "anchor": ["00921"] }
+  },
+  {
+    "id": "dmc930",
+    "brand": "DMC",
+    "name": "930",
+    "order": 164,
+    "rgb": "#2a4551",
+    "substitutes": { "ariadna": ["1638"], "anchor": ["00922"] }
+  },
+  {
+    "id": "dmc3750",
+    "brand": "DMC",
+    "name": "3750",
+    "order": 165,
+    "rgb": "#0d3346",
+    "substitutes": { "ariadna": ["1618"], "anchor": ["01036"] }
+  },
+  {
+    "id": "dmc828",
+    "brand": "DMC",
+    "name": "828",
+    "order": 166,
+    "rgb": "#c3d9d9",
+    "substitutes": { "ariadna": ["1631"], "anchor": ["00975"] }
+  },
+  {
+    "id": "dmc3761",
+    "brand": "DMC",
+    "name": "3761",
+    "order": 167,
+    "rgb": "#b1d1d5",
+    "substitutes": { "ariadna": ["1614"], "anchor": ["00928"] }
+  },
+  {
+    "id": "dmc519",
+    "brand": "DMC",
+    "name": "519",
+    "order": 168,
+    "rgb": "#90b7c4",
+    "substitutes": { "ariadna": ["1651"], "anchor": ["01038"] }
+  },
+  {
+    "id": "dmc518",
+    "brand": "DMC",
+    "name": "518",
+    "order": 169,
+    "rgb": "#5692a1",
+    "substitutes": { "ariadna": ["1641"], "anchor": ["01039"] }
+  },
+  {
+    "id": "dmc3760",
+    "brand": "DMC",
+    "name": "3760",
+    "order": 170,
+    "rgb": "#428198",
+    "substitutes": { "ariadna": ["1616"], "anchor": ["00169"] }
+  },
+  {
+    "id": "dmc517",
+    "brand": "DMC",
+    "name": "517",
+    "order": 171,
+    "rgb": "#0b5e81",
+    "substitutes": { "ariadna": ["1616"], "anchor": ["00162"] }
+  },
+  {
+    "id": "dmc3842",
+    "brand": "DMC",
+    "name": "3842",
+    "order": 172,
+    "rgb": "#004868",
+    "substitutes": { "ariadna": ["1617"], "anchor": ["00979"] }
+  },
+  {
+    "id": "dmc311",
+    "brand": "DMC",
+    "name": "311",
+    "order": 173,
+    "rgb": "#003854",
+    "substitutes": { "ariadna": ["1618"], "anchor": ["00148"] }
+  },
+  {
+    "id": "dmc747",
+    "brand": "DMC",
+    "name": "747",
+    "order": 174,
+    "rgb": "#cde4e3",
+    "substitutes": { "ariadna": ["1650"], "anchor": ["00158"] }
+  },
+  {
+    "id": "dmc3766",
+    "brand": "DMC",
+    "name": "3766",
+    "order": 175,
+    "rgb": "#90bec1",
+    "substitutes": { "ariadna": ["1615"], "anchor": ["01062"] }
+  },
+  {
+    "id": "dmc807",
+    "brand": "DMC",
+    "name": "807",
+    "order": 176,
+    "rgb": "#55939c",
+    "substitutes": { "ariadna": ["1616"], "anchor": ["00168"] }
+  },
+  {
+    "id": "dmc3765",
+    "brand": "DMC",
+    "name": "3765",
+    "order": 177,
+    "rgb": "#006079",
+    "substitutes": { "ariadna": ["1643"], "anchor": ["00170"] }
+  },
+  {
+    "id": "dmc3811",
+    "brand": "DMC",
+    "name": "3811",
+    "order": 178,
+    "rgb": "#b6d2ce",
+    "substitutes": { "ariadna": ["1640"], "anchor": ["01060"] }
+  },
+  {
+    "id": "dmc598",
+    "brand": "DMC",
+    "name": "598",
+    "order": 179,
+    "rgb": "#9abfbb",
+    "substitutes": { "ariadna": ["1651"], "anchor": ["01062"] }
+  },
+  {
+    "id": "dmc597",
+    "brand": "DMC",
+    "name": "597",
+    "order": 180,
+    "rgb": "#6a9ca1",
+    "substitutes": { "ariadna": ["1641"], "anchor": ["01064"] }
+  },
+  {
+    "id": "dmc3810",
+    "brand": "DMC",
+    "name": "3810",
+    "order": 181,
+    "rgb": "#468588",
+    "substitutes": { "ariadna": ["1616"], "anchor": ["00168"] }
+  },
+  {
+    "id": "dmc3809",
+    "brand": "DMC",
+    "name": "3809",
+    "order": 182,
+    "rgb": "#016163",
+    "substitutes": { "ariadna": ["1643"], "anchor": ["01066"] }
+  },
+  {
+    "id": "dmc3808",
+    "brand": "DMC",
+    "name": "3808",
+    "order": 183,
+    "rgb": "#194e50",
+    "substitutes": { "ariadna": ["1668"], "anchor": ["01066"] }
+  },
+  {
+    "id": "dmc928",
+    "brand": "DMC",
+    "name": "928",
+    "order": 184,
+    "rgb": "#c8cdc6",
+    "substitutes": { "ariadna": ["1645"], "anchor": ["00274"] }
+  },
+  {
+    "id": "dmc927",
+    "brand": "DMC",
+    "name": "927",
+    "order": 185,
+    "rgb": "#9faba3",
+    "substitutes": { "ariadna": ["1646"], "anchor": ["00848"] }
+  },
+  {
+    "id": "dmc926",
+    "brand": "DMC",
+    "name": "926",
+    "order": 186,
+    "rgb": "#798985",
+    "substitutes": { "ariadna": ["1647"], "anchor": ["00850"] }
+  },
+  {
+    "id": "dmc3768",
+    "brand": "DMC",
+    "name": "3768",
+    "order": 187,
+    "rgb": "#495a5f",
+    "substitutes": { "ariadna": ["1648"], "anchor": ["00779"] }
+  },
+  {
+    "id": "dmc924",
+    "brand": "DMC",
+    "name": "924",
+    "order": 188,
+    "rgb": "#1f3f42",
+    "substitutes": { "ariadna": ["1649"], "anchor": ["00851"] }
+  },
+  {
+    "id": "dmc3849",
+    "brand": "DMC",
+    "name": "3849",
+    "order": 189,
+    "rgb": "#669e94",
+    "substitutes": { "ariadna": ["1666"], "anchor": ["00876"] }
+  },
+  {
+    "id": "dmc3848",
+    "brand": "DMC",
+    "name": "3848",
+    "order": 190,
+    "rgb": "#2f796c",
+    "substitutes": { "ariadna": ["1662"], "anchor": ["01074"] }
+  },
+  {
+    "id": "dmc3847",
+    "brand": "DMC",
+    "name": "3847",
+    "order": 191,
+    "rgb": "#005245",
+    "substitutes": { "ariadna": ["1668"], "anchor": ["00212"] }
+  },
+  {
+    "id": "dmc964",
+    "brand": "DMC",
+    "name": "964",
+    "order": 192,
+    "rgb": "#a8d4c7",
+    "substitutes": { "ariadna": ["1651"], "anchor": ["01092"] }
+  },
+  {
+    "id": "dmc959",
+    "brand": "DMC",
+    "name": "959",
+    "order": 193,
+    "rgb": "#75b79f",
+    "substitutes": { "ariadna": ["1660"], "anchor": ["00185"] }
+  },
+  {
+    "id": "dmc958",
+    "brand": "DMC",
+    "name": "958",
+    "order": 194,
+    "rgb": "#66ab92",
+    "substitutes": { "ariadna": ["1661"], "anchor": ["00185"] }
+  },
+  {
+    "id": "dmc3812",
+    "brand": "DMC",
+    "name": "3812",
+    "order": 195,
+    "rgb": "#008867",
+    "substitutes": { "ariadna": ["1661"], "anchor": ["00188"] }
+  },
+  {
+    "id": "dmc3851",
+    "brand": "DMC",
+    "name": "3851",
+    "order": 196,
+    "rgb": "#59a984",
+    "substitutes": { "ariadna": ["1661"], "anchor": ["00187"] }
+  },
+  {
+    "id": "dmc943",
+    "brand": "DMC",
+    "name": "943",
+    "order": 197,
+    "rgb": "#128c64",
+    "substitutes": { "ariadna": ["1661"], "anchor": ["00188"] }
+  },
+  {
+    "id": "dmc3850",
+    "brand": "DMC",
+    "name": "3850",
+    "order": 198,
+    "rgb": "#007c4d",
+    "substitutes": { "ariadna": ["1677"], "anchor": ["00189"] }
+  },
+  {
+    "id": "dmc993",
+    "brand": "DMC",
+    "name": "993",
+    "order": 199,
+    "rgb": "#81b197",
+    "substitutes": { "ariadna": ["1665"], "anchor": ["00186"] }
+  },
+  {
+    "id": "dmc992",
+    "brand": "DMC",
+    "name": "992",
+    "order": 200,
+    "rgb": "#60997d",
+    "substitutes": { "ariadna": ["1666"], "anchor": ["01072"] }
+  },
+  {
+    "id": "dmc3814",
+    "brand": "DMC",
+    "name": "3814",
+    "order": 201,
+    "rgb": "#2c7862",
+    "substitutes": { "ariadna": ["1662"], "anchor": ["01074"] }
+  },
+  {
+    "id": "dmc991",
+    "brand": "DMC",
+    "name": "991",
+    "order": 202,
+    "rgb": "#006147",
+    "substitutes": { "ariadna": ["1667"], "anchor": ["01076"] }
+  },
+  {
+    "id": "dmc966",
+    "brand": "DMC",
+    "name": "966",
+    "order": 203,
+    "rgb": "#a7bc9c",
+    "substitutes": { "ariadna": ["1669"], "anchor": ["00240"] }
+  },
+  {
+    "id": "dmc564",
+    "brand": "DMC",
+    "name": "564",
+    "order": 204,
+    "rgb": "#aec7a7",
+    "substitutes": { "ariadna": ["1663"], "anchor": ["00206"] }
+  },
+  {
+    "id": "dmc563",
+    "brand": "DMC",
+    "name": "563",
+    "order": 205,
+    "rgb": "#96b795",
+    "substitutes": { "ariadna": ["1664"], "anchor": ["00208"] }
+  },
+  {
+    "id": "dmc562",
+    "brand": "DMC",
+    "name": "562",
+    "order": 206,
+    "rgb": "#5c865e",
+    "substitutes": { "ariadna": ["1671"], "anchor": ["00216"] }
+  },
+  {
+    "id": "dmc505",
+    "brand": "DMC",
+    "name": "505",
+    "order": 207,
+    "rgb": "#37633d",
+    "substitutes": { "ariadna": ["1687"], "anchor": ["00217"] }
+  },
+  {
+    "id": "dmc3817",
+    "brand": "DMC",
+    "name": "3817",
+    "order": 208,
+    "rgb": "#a5bba8",
+    "substitutes": { "ariadna": ["1669"], "anchor": ["00875"] }
+  },
+  {
+    "id": "dmc3816",
+    "brand": "DMC",
+    "name": "3816",
+    "order": 209,
+    "rgb": "#769a85",
+    "substitutes": { "ariadna": ["1647"], "anchor": ["00876"] }
+  },
+  {
+    "id": "dmc163",
+    "brand": "DMC",
+    "name": "163",
+    "order": 210,
+    "rgb": "#557a60",
+    "substitutes": { "ariadna": ["1671"], "anchor": ["00215"] }
+  },
+  {
+    "id": "dmc3815",
+    "brand": "DMC",
+    "name": "3815",
+    "order": 211,
+    "rgb": "#4c7257",
+    "substitutes": { "ariadna": ["1671"], "anchor": ["00212"] }
+  },
+  {
+    "id": "dmc561",
+    "brand": "DMC",
+    "name": "561",
+    "order": 212,
+    "rgb": "#315e46",
+    "substitutes": { "ariadna": ["1649"], "anchor": ["00212"] }
+  },
+  {
+    "id": "dmc3813",
+    "brand": "DMC",
+    "name": "3813",
+    "order": 213,
+    "rgb": "#b3c4b6",
+    "substitutes": { "ariadna": ["1669"], "anchor": ["00213"] }
+  },
+  {
+    "id": "dmc503",
+    "brand": "DMC",
+    "name": "503",
+    "order": 214,
+    "rgb": "#8ca79a",
+    "substitutes": { "ariadna": ["1646"], "anchor": ["00848"] }
+  },
+  {
+    "id": "dmc502",
+    "brand": "DMC",
+    "name": "502",
+    "order": 215,
+    "rgb": "#748c7c",
+    "substitutes": { "ariadna": ["1671"], "anchor": ["00877"] }
+  },
+  {
+    "id": "dmc501",
+    "brand": "DMC",
+    "name": "501",
+    "order": 216,
+    "rgb": "#536a5e",
+    "substitutes": { "ariadna": ["1816"], "anchor": ["00878"] }
+  },
+  {
+    "id": "dmc500",
+    "brand": "DMC",
+    "name": "500",
+    "order": 217,
+    "rgb": "#132519",
+    "substitutes": { "ariadna": ["1674"], "anchor": ["00879"] }
+  },
+  {
+    "id": "dmc955",
+    "brand": "DMC",
+    "name": "955",
+    "order": 218,
+    "rgb": "#bedab1",
+    "substitutes": { "ariadna": ["1663"], "anchor": ["01043"] }
+  },
+  {
+    "id": "dmc13",
+    "brand": "DMC",
+    "name": "13",
+    "order": 219,
+    "rgb": "#b9d39f",
+    "substitutes": { "ariadna": ["1663"], "anchor": ["00203"] }
+  },
+  {
+    "id": "dmc954",
+    "brand": "DMC",
+    "name": "954",
+    "order": 220,
+    "rgb": "#9dc493",
+    "substitutes": { "ariadna": ["1664"], "anchor": ["00203"] }
+  },
+  {
+    "id": "dmc913",
+    "brand": "DMC",
+    "name": "913",
+    "order": 221,
+    "rgb": "#7fad77",
+    "substitutes": { "ariadna": ["1665"], "anchor": ["00204"] }
+  },
+  {
+    "id": "dmc912",
+    "brand": "DMC",
+    "name": "912",
+    "order": 222,
+    "rgb": "#619b63",
+    "substitutes": { "ariadna": ["1676"], "anchor": ["00209"] }
+  },
+  {
+    "id": "dmc911",
+    "brand": "DMC",
+    "name": "911",
+    "order": 223,
+    "rgb": "#398644",
+    "substitutes": { "ariadna": ["1677"], "anchor": ["00205"] }
+  },
+  {
+    "id": "dmc910",
+    "brand": "DMC",
+    "name": "910",
+    "order": 224,
+    "rgb": "#1e6c2b",
+    "substitutes": { "ariadna": ["1622"], "anchor": ["00229"] }
+  },
+  {
+    "id": "dmc909",
+    "brand": "DMC",
+    "name": "909",
+    "order": 225,
+    "rgb": "#005514",
+    "substitutes": { "ariadna": ["1678"], "anchor": ["00230"] }
+  },
+  {
+    "id": "dmc3818",
+    "brand": "DMC",
+    "name": "3818",
+    "order": 226,
+    "rgb": "#004015",
+    "substitutes": { "ariadna": ["1668"], "anchor": ["00246"] }
+  },
+  {
+    "id": "dmc369",
+    "brand": "DMC",
+    "name": "369",
+    "order": 227,
+    "rgb": "#c2cca8",
+    "substitutes": { "ariadna": ["1675"], "anchor": ["01043"] }
+  },
+  {
+    "id": "dmc368",
+    "brand": "DMC",
+    "name": "368",
+    "order": 228,
+    "rgb": "#8f9f74",
+    "substitutes": { "ariadna": ["1679"], "anchor": ["00214"] }
+  },
+  {
+    "id": "dmc320",
+    "brand": "DMC",
+    "name": "320",
+    "order": 229,
+    "rgb": "#697f5b",
+    "substitutes": { "ariadna": ["1685"], "anchor": ["00215"] }
+  },
+  {
+    "id": "dmc367",
+    "brand": "DMC",
+    "name": "367",
+    "order": 230,
+    "rgb": "#48613e",
+    "substitutes": { "ariadna": ["1671"], "anchor": ["00217"] }
+  },
+  {
+    "id": "dmc319",
+    "brand": "DMC",
+    "name": "319",
+    "order": 231,
+    "rgb": "#173418",
+    "substitutes": { "ariadna": ["1672"], "anchor": ["00218"] }
+  },
+  {
+    "id": "dmc890",
+    "brand": "DMC",
+    "name": "890",
+    "order": 232,
+    "rgb": "#0d1d00",
+    "substitutes": { "ariadna": ["1689"], "anchor": ["00879"] }
+  },
+  {
+    "id": "dmc164",
+    "brand": "DMC",
+    "name": "164",
+    "order": 233,
+    "rgb": "#a6b784",
+    "substitutes": { "ariadna": ["1679"], "anchor": ["00214"] }
+  },
+  {
+    "id": "dmc989",
+    "brand": "DMC",
+    "name": "989",
+    "order": 234,
+    "rgb": "#7f8f50",
+    "substitutes": { "ariadna": ["1685"], "anchor": ["00241"] }
+  },
+  {
+    "id": "dmc988",
+    "brand": "DMC",
+    "name": "988",
+    "order": 235,
+    "rgb": "#6e7e40",
+    "substitutes": { "ariadna": ["1685"], "anchor": ["00243"] }
+  },
+  {
+    "id": "dmc987",
+    "brand": "DMC",
+    "name": "987",
+    "order": 236,
+    "rgb": "#485c2c",
+    "substitutes": { "ariadna": ["1687"], "anchor": ["00244"] }
+  },
+  {
+    "id": "dmc986",
+    "brand": "DMC",
+    "name": "986",
+    "order": 237,
+    "rgb": "#224214",
+    "substitutes": { "ariadna": ["1688"], "anchor": ["00246"] }
+  },
+  {
+    "id": "dmc772",
+    "brand": "DMC",
+    "name": "772",
+    "order": 238,
+    "rgb": "#dbdbb2",
+    "substitutes": { "ariadna": ["1675"], "anchor": ["00259"] }
+  },
+  {
+    "id": "dmc3348",
+    "brand": "DMC",
+    "name": "3348",
+    "order": 239,
+    "rgb": "#bdb473",
+    "substitutes": { "ariadna": ["1690"], "anchor": ["00253"] }
+  },
+  {
+    "id": "dmc3347",
+    "brand": "DMC",
+    "name": "3347",
+    "order": 240,
+    "rgb": "#73793b",
+    "substitutes": { "ariadna": ["1685"], "anchor": ["00243"] }
+  },
+  {
+    "id": "dmc3346",
+    "brand": "DMC",
+    "name": "3346",
+    "order": 241,
+    "rgb": "#5a612b",
+    "substitutes": { "ariadna": ["1686"], "anchor": ["00244"] }
+  },
+  {
+    "id": "dmc3345",
+    "brand": "DMC",
+    "name": "3345",
+    "order": 242,
+    "rgb": "#2b3a06",
+    "substitutes": { "ariadna": ["1713"], "anchor": ["01044"] }
+  },
+  {
+    "id": "dmc895",
+    "brand": "DMC",
+    "name": "895",
+    "order": 243,
+    "rgb": "#213a16",
+    "substitutes": { "ariadna": ["1672"], "anchor": ["01044"] }
+  },
+  {
+    "id": "dmc14",
+    "brand": "DMC",
+    "name": "14",
+    "order": 244,
+    "rgb": "#dfe2a5",
+    "substitutes": { "ariadna": ["1675"], "anchor": ["00300"] }
+  },
+  {
+    "id": "dmc15",
+    "brand": "DMC",
+    "name": "15",
+    "order": 245,
+    "rgb": "#d2d48d",
+    "substitutes": { "ariadna": ["1675"], "anchor": ["00265"] }
+  },
+  {
+    "id": "dmc16",
+    "brand": "DMC",
+    "name": "16",
+    "order": 246,
+    "rgb": "#c2c65b",
+    "substitutes": { "ariadna": ["1690"], "anchor": ["00278"] }
+  },
+  {
+    "id": "dmc704",
+    "brand": "DMC",
+    "name": "704",
+    "order": 247,
+    "rgb": "#91a139",
+    "substitutes": { "ariadna": ["1691"], "anchor": ["00238"] }
+  },
+  {
+    "id": "dmc703",
+    "brand": "DMC",
+    "name": "703",
+    "order": 248,
+    "rgb": "#7f9940",
+    "substitutes": { "ariadna": ["1680"], "anchor": ["00238"] }
+  },
+  {
+    "id": "dmc702",
+    "brand": "DMC",
+    "name": "702",
+    "order": 249,
+    "rgb": "#5d8738",
+    "substitutes": { "ariadna": ["1687"], "anchor": ["00225"] }
+  },
+  {
+    "id": "dmc701",
+    "brand": "DMC",
+    "name": "701",
+    "order": 250,
+    "rgb": "#427829",
+    "substitutes": { "ariadna": ["1681"], "anchor": ["00227"] }
+  },
+  {
+    "id": "dmc700",
+    "brand": "DMC",
+    "name": "700",
+    "order": 251,
+    "rgb": "#286923",
+    "substitutes": { "ariadna": ["1678"], "anchor": ["00211"] }
+  },
+  {
+    "id": "dmc699",
+    "brand": "DMC",
+    "name": "699",
+    "order": 252,
+    "rgb": "#004f11",
+    "substitutes": { "ariadna": ["1682"], "anchor": ["00923"] }
+  },
+  {
+    "id": "dmc907",
+    "brand": "DMC",
+    "name": "907",
+    "order": 253,
+    "rgb": "#a4ae28",
+    "substitutes": { "ariadna": ["1698"], "anchor": ["00255"] }
+  },
+  {
+    "id": "dmc906",
+    "brand": "DMC",
+    "name": "906",
+    "order": 254,
+    "rgb": "#678700",
+    "substitutes": { "ariadna": ["1699"], "anchor": ["00256"] }
+  },
+  {
+    "id": "dmc905",
+    "brand": "DMC",
+    "name": "905",
+    "order": 255,
+    "rgb": "#4f6611",
+    "substitutes": { "ariadna": ["1700"], "anchor": ["00257"] }
+  },
+  {
+    "id": "dmc904",
+    "brand": "DMC",
+    "name": "904",
+    "order": 256,
+    "rgb": "#3e510f",
+    "substitutes": { "ariadna": ["1701"], "anchor": ["00258"] }
+  },
+  {
+    "id": "dmc472",
+    "brand": "DMC",
+    "name": "472",
+    "order": 257,
+    "rgb": "#c1b362",
+    "substitutes": { "ariadna": ["1690"], "anchor": ["00253"] }
+  },
+  {
+    "id": "dmc471",
+    "brand": "DMC",
+    "name": "471",
+    "order": 258,
+    "rgb": "#908c48",
+    "substitutes": { "ariadna": ["1691"], "anchor": ["00241"] }
+  },
+  {
+    "id": "dmc470",
+    "brand": "DMC",
+    "name": "470",
+    "order": 259,
+    "rgb": "#757b23",
+    "substitutes": { "ariadna": ["1716"], "anchor": ["00268"] }
+  },
+  {
+    "id": "dmc469",
+    "brand": "DMC",
+    "name": "469",
+    "order": 260,
+    "rgb": "#5e5c17",
+    "substitutes": { "ariadna": ["1693"], "anchor": ["00269"] }
+  },
+  {
+    "id": "dmc937",
+    "brand": "DMC",
+    "name": "937",
+    "order": 261,
+    "rgb": "#515513",
+    "substitutes": { "ariadna": ["1694"], "anchor": ["00258"] }
+  },
+  {
+    "id": "dmc936",
+    "brand": "DMC",
+    "name": "936",
+    "order": 262,
+    "rgb": "#42421c",
+    "substitutes": { "ariadna": ["1708"], "anchor": ["00681"] }
+  },
+  {
+    "id": "dmc935",
+    "brand": "DMC",
+    "name": "935",
+    "order": 263,
+    "rgb": "#33341c",
+    "substitutes": { "ariadna": ["1707"], "anchor": ["00861"] }
+  },
+  {
+    "id": "dmc934",
+    "brand": "DMC",
+    "name": "934",
+    "order": 264,
+    "rgb": "#272716",
+    "substitutes": { "ariadna": ["1714"], "anchor": ["00905"] }
+  },
+  {
+    "id": "dmc3364",
+    "brand": "DMC",
+    "name": "3364",
+    "order": 265,
+    "rgb": "#878759",
+    "substitutes": { "ariadna": ["1704"], "anchor": ["00260"] }
+  },
+  {
+    "id": "dmc3363",
+    "brand": "DMC",
+    "name": "3363",
+    "order": 266,
+    "rgb": "#6c714d",
+    "substitutes": { "ariadna": ["1803"], "anchor": ["00262"] }
+  },
+  {
+    "id": "dmc3362",
+    "brand": "DMC",
+    "name": "3362",
+    "order": 267,
+    "rgb": "#525a3b",
+    "substitutes": { "ariadna": ["1694"], "anchor": ["00263"] }
+  },
+  {
+    "id": "dmc10",
+    "brand": "DMC",
+    "name": "10",
+    "order": 268,
+    "rgb": "#eae2bd",
+    "substitutes": { "ariadna": ["1675"], "anchor": ["00386"] }
+  },
+  {
+    "id": "dmc11",
+    "brand": "DMC",
+    "name": "11",
+    "order": 269,
+    "rgb": "#e8d77c",
+    "substitutes": { "ariadna": ["1502"], "anchor": ["00288"] }
+  },
+  {
+    "id": "dmc12",
+    "brand": "DMC",
+    "name": "12",
+    "order": 270,
+    "rgb": "#d9c854",
+    "substitutes": { "ariadna": ["1715"], "anchor": ["00278"] }
+  },
+  {
+    "id": "dmc165",
+    "brand": "DMC",
+    "name": "165",
+    "order": 271,
+    "rgb": "#dac774",
+    "substitutes": { "ariadna": ["1690"], "anchor": ["00253"] }
+  },
+  {
+    "id": "dmc3819",
+    "brand": "DMC",
+    "name": "3819",
+    "order": 272,
+    "rgb": "#d5c25a",
+    "substitutes": { "ariadna": ["1709"], "anchor": ["00278"] }
+  },
+  {
+    "id": "dmc166",
+    "brand": "DMC",
+    "name": "166",
+    "order": 273,
+    "rgb": "#b9a216",
+    "substitutes": { "ariadna": ["1715"], "anchor": ["00255"] }
+  },
+  {
+    "id": "dmc581",
+    "brand": "DMC",
+    "name": "581",
+    "order": 274,
+    "rgb": "#888420",
+    "substitutes": { "ariadna": ["1692"], "anchor": ["00280"] }
+  },
+  {
+    "id": "dmc580",
+    "brand": "DMC",
+    "name": "580",
+    "order": 275,
+    "rgb": "#675e17",
+    "substitutes": { "ariadna": ["1693"], "anchor": ["00281"] }
+  },
+  {
+    "id": "dmc523",
+    "brand": "DMC",
+    "name": "523",
+    "order": 276,
+    "rgb": "#a2a286",
+    "substitutes": { "ariadna": ["1804"], "anchor": ["00859"] }
+  },
+  {
+    "id": "dmc3053",
+    "brand": "DMC",
+    "name": "3053",
+    "order": 277,
+    "rgb": "#9d9a70",
+    "substitutes": { "ariadna": ["1703"], "anchor": ["00261"] }
+  },
+  {
+    "id": "dmc3052",
+    "brand": "DMC",
+    "name": "3052",
+    "order": 278,
+    "rgb": "#84805a",
+    "substitutes": { "ariadna": ["1685"], "anchor": ["00262"] }
+  },
+  {
+    "id": "dmc3051",
+    "brand": "DMC",
+    "name": "3051",
+    "order": 279,
+    "rgb": "#48451d",
+    "substitutes": { "ariadna": ["1694"], "anchor": ["00681"] }
+  },
+  {
+    "id": "dmc524",
+    "brand": "DMC",
+    "name": "524",
+    "order": 280,
+    "rgb": "#b3b094",
+    "substitutes": { "ariadna": ["1806"], "anchor": ["00858"] }
+  },
+  {
+    "id": "dmc522",
+    "brand": "DMC",
+    "name": "522",
+    "order": 281,
+    "rgb": "#969a7e",
+    "substitutes": { "ariadna": ["1763"], "anchor": ["00860"] }
+  },
+  {
+    "id": "dmc520",
+    "brand": "DMC",
+    "name": "520",
+    "order": 282,
+    "rgb": "#445036",
+    "substitutes": { "ariadna": ["1808"], "anchor": ["00862"] }
+  },
+  {
+    "id": "dmc734",
+    "brand": "DMC",
+    "name": "734",
+    "order": 283,
+    "rgb": "#bb9c4a",
+    "substitutes": { "ariadna": ["1722"], "anchor": ["00279"] }
+  },
+  {
+    "id": "dmc733",
+    "brand": "DMC",
+    "name": "733",
+    "order": 284,
+    "rgb": "#a5872c",
+    "substitutes": { "ariadna": ["1710"], "anchor": ["00280"] }
+  },
+  {
+    "id": "dmc732",
+    "brand": "DMC",
+    "name": "732",
+    "order": 285,
+    "rgb": "#745c01",
+    "substitutes": { "ariadna": ["1711"], "anchor": ["00281"] }
+  },
+  {
+    "id": "dmc730",
+    "brand": "DMC",
+    "name": "730",
+    "order": 286,
+    "rgb": "#5a4808",
+    "substitutes": { "ariadna": ["1712"], "anchor": ["00845"] }
+  },
+  {
+    "id": "dmc3013",
+    "brand": "DMC",
+    "name": "3013",
+    "order": 287,
+    "rgb": "#b0a171",
+    "substitutes": { "ariadna": ["1703"], "anchor": ["00842"] }
+  },
+  {
+    "id": "dmc3012",
+    "brand": "DMC",
+    "name": "3012",
+    "order": 288,
+    "rgb": "#867541",
+    "substitutes": { "ariadna": ["1705"], "anchor": ["00843"] }
+  },
+  {
+    "id": "dmc3011",
+    "brand": "DMC",
+    "name": "3011",
+    "order": 289,
+    "rgb": "#66582f",
+    "substitutes": { "ariadna": ["1693"], "anchor": ["00846"] }
+  },
+  {
+    "id": "dmc372",
+    "brand": "DMC",
+    "name": "372",
+    "order": 290,
+    "rgb": "#b3a175",
+    "substitutes": { "ariadna": ["1792"], "anchor": ["00853"] }
+  },
+  {
+    "id": "dmc371",
+    "brand": "DMC",
+    "name": "371",
+    "order": 291,
+    "rgb": "#9e8552",
+    "substitutes": { "ariadna": ["1788"], "anchor": ["00854"] }
+  },
+  {
+    "id": "dmc370",
+    "brand": "DMC",
+    "name": "370",
+    "order": 292,
+    "rgb": "#9f8852",
+    "substitutes": { "ariadna": ["1716"], "anchor": ["00855"] }
+  },
+  {
+    "id": "dmc17",
+    "brand": "DMC",
+    "name": "17",
+    "order": 293,
+    "rgb": "#e9c65f",
+    "substitutes": { "ariadna": ["1513"], "anchor": ["00278"] }
+  },
+  {
+    "id": "dmc18",
+    "brand": "DMC",
+    "name": "18",
+    "order": 294,
+    "rgb": "#e1ba44",
+    "substitutes": { "ariadna": ["1514"], "anchor": ["00295"] }
+  },
+  {
+    "id": "dmc834",
+    "brand": "DMC",
+    "name": "834",
+    "order": 295,
+    "rgb": "#c6a357",
+    "substitutes": { "ariadna": ["1721"], "anchor": ["00945"] }
+  },
+  {
+    "id": "dmc833",
+    "brand": "DMC",
+    "name": "833",
+    "order": 296,
+    "rgb": "#ae8836",
+    "substitutes": { "ariadna": ["1722"], "anchor": ["00280"] }
+  },
+  {
+    "id": "dmc832",
+    "brand": "DMC",
+    "name": "832",
+    "order": 297,
+    "rgb": "#9a731e",
+    "substitutes": { "ariadna": ["1723"], "anchor": ["00907"] }
+  },
+  {
+    "id": "dmc831",
+    "brand": "DMC",
+    "name": "831",
+    "order": 298,
+    "rgb": "#7f5f16",
+    "substitutes": { "ariadna": ["1711"], "anchor": ["00281"] }
+  },
+  {
+    "id": "dmc830",
+    "brand": "DMC",
+    "name": "830",
+    "order": 299,
+    "rgb": "#674b10",
+    "substitutes": { "ariadna": ["1724"], "anchor": ["00845"] }
+  },
+  {
+    "id": "dmc829",
+    "brand": "DMC",
+    "name": "829",
+    "order": 300,
+    "rgb": "#5f3d0d",
+    "substitutes": { "ariadna": ["1724"], "anchor": ["00906"] }
+  },
+  {
+    "id": "dmc746",
+    "brand": "DMC",
+    "name": "746",
+    "order": 301,
+    "rgb": "#f5ebcf",
+    "substitutes": { "ariadna": ["1775"], "anchor": ["00275"] }
+  },
+  {
+    "id": "dmc677",
+    "brand": "DMC",
+    "name": "677",
+    "order": 302,
+    "rgb": "#e9d1a0",
+    "substitutes": { "ariadna": ["1730"], "anchor": ["00886"] }
+  },
+  {
+    "id": "dmc422",
+    "brand": "DMC",
+    "name": "422",
+    "order": 303,
+    "rgb": "#bf9d6d",
+    "substitutes": { "ariadna": ["1767"], "anchor": ["00372"] }
+  },
+  {
+    "id": "dmc3828",
+    "brand": "DMC",
+    "name": "3828",
+    "order": 304,
+    "rgb": "#a8824f",
+    "substitutes": { "ariadna": ["1778"], "anchor": ["00373"] }
+  },
+  {
+    "id": "dmc420",
+    "brand": "DMC",
+    "name": "420",
+    "order": 305,
+    "rgb": "#875a28",
+    "substitutes": { "ariadna": ["1741"], "anchor": ["00374"] }
+  },
+  {
+    "id": "dmc869",
+    "brand": "DMC",
+    "name": "869",
+    "order": 306,
+    "rgb": "#704c1e",
+    "substitutes": { "ariadna": ["1731"], "anchor": ["00375"] }
+  },
+  {
+    "id": "dmc613",
+    "brand": "DMC",
+    "name": "613",
+    "order": 307,
+    "rgb": "#d6c9b1",
+    "substitutes": { "ariadna": ["1703"], "anchor": ["00831"] }
+  },
+  {
+    "id": "dmc612",
+    "brand": "DMC",
+    "name": "612",
+    "order": 308,
+    "rgb": "#ad946d",
+    "substitutes": { "ariadna": ["1788"], "anchor": ["00832"] }
+  },
+  {
+    "id": "dmc611",
+    "brand": "DMC",
+    "name": "611",
+    "order": 309,
+    "rgb": "#705a39",
+    "substitutes": { "ariadna": ["1789"], "anchor": ["00889"] }
+  },
+  {
+    "id": "dmc610",
+    "brand": "DMC",
+    "name": "610",
+    "order": 310,
+    "rgb": "#6b522d",
+    "substitutes": { "ariadna": ["1793"], "anchor": ["00889"] }
+  },
+  {
+    "id": "dmc3047",
+    "brand": "DMC",
+    "name": "3047",
+    "order": 311,
+    "rgb": "#e1cea3",
+    "substitutes": { "ariadna": ["1753"], "anchor": ["00852"] }
+  },
+  {
+    "id": "dmc3046",
+    "brand": "DMC",
+    "name": "3046",
+    "order": 312,
+    "rgb": "#d0b57e",
+    "substitutes": { "ariadna": ["1719"], "anchor": ["00887"] }
+  },
+  {
+    "id": "dmc3045",
+    "brand": "DMC",
+    "name": "3045",
+    "order": 313,
+    "rgb": "#a98352",
+    "substitutes": { "ariadna": ["1778"], "anchor": ["00888"] }
+  },
+  {
+    "id": "dmc167",
+    "brand": "DMC",
+    "name": "167",
+    "order": 314,
+    "rgb": "#956b3a",
+    "substitutes": { "ariadna": ["1741"], "anchor": ["00898"] }
+  },
+  {
+    "id": "dmc676",
+    "brand": "DMC",
+    "name": "676",
+    "order": 315,
+    "rgb": "#dbaf6d",
+    "substitutes": { "ariadna": ["1520"], "anchor": ["00891"] }
+  },
+  {
+    "id": "dmc729",
+    "brand": "DMC",
+    "name": "729",
+    "order": 316,
+    "rgb": "#b88743",
+    "substitutes": { "ariadna": ["1768"], "anchor": ["00890"] }
+  },
+  {
+    "id": "dmc680",
+    "brand": "DMC",
+    "name": "680",
+    "order": 317,
+    "rgb": "#a0722f",
+    "substitutes": { "ariadna": ["1728"], "anchor": ["00901"] }
+  },
+  {
+    "id": "dmc3829",
+    "brand": "DMC",
+    "name": "3829",
+    "order": 318,
+    "rgb": "#946219",
+    "substitutes": { "ariadna": ["1720"], "anchor": ["00901"] }
+  },
+  {
+    "id": "dmc3822",
+    "brand": "DMC",
+    "name": "3822",
+    "order": 319,
+    "rgb": "#ecc46f",
+    "substitutes": { "ariadna": ["1509"], "anchor": ["00301"] }
+  },
+  {
+    "id": "dmc3821",
+    "brand": "DMC",
+    "name": "3821",
+    "order": 320,
+    "rgb": "#ddab46",
+    "substitutes": { "ariadna": ["1515"], "anchor": ["00302"] }
+  },
+  {
+    "id": "dmc3820",
+    "brand": "DMC",
+    "name": "3820",
+    "order": 321,
+    "rgb": "#d09a2e",
+    "substitutes": { "ariadna": ["1727"], "anchor": ["00305"] }
+  },
+  {
+    "id": "dmc3852",
+    "brand": "DMC",
+    "name": "3852",
+    "order": 322,
+    "rgb": "#c08103",
+    "substitutes": { "ariadna": ["1739"], "anchor": ["00306"] }
+  },
+  {
+    "id": "dmc728",
+    "brand": "DMC",
+    "name": "728",
+    "order": 323,
+    "rgb": "#e2a538",
+    "substitutes": { "ariadna": ["1515"], "anchor": ["00305"] }
+  },
+  {
+    "id": "dmc783",
+    "brand": "DMC",
+    "name": "783",
+    "order": 324,
+    "rgb": "#c4811c",
+    "substitutes": { "ariadna": ["1727"], "anchor": ["00306"] }
+  },
+  {
+    "id": "dmc782",
+    "brand": "DMC",
+    "name": "782",
+    "order": 325,
+    "rgb": "#995c00",
+    "substitutes": { "ariadna": ["1730"], "anchor": ["00308"] }
+  },
+  {
+    "id": "dmc780",
+    "brand": "DMC",
+    "name": "780",
+    "order": 326,
+    "rgb": "#844705",
+    "substitutes": { "ariadna": ["1780"], "anchor": ["00309"] }
+  },
+  {
+    "id": "dmc3823",
+    "brand": "DMC",
+    "name": "3823",
+    "order": 327,
+    "rgb": "#fbeac5",
+    "substitutes": { "ariadna": ["1501"], "anchor": ["00386"] }
+  },
+  {
+    "id": "dmc3855",
+    "brand": "DMC",
+    "name": "3855",
+    "order": 328,
+    "rgb": "#f9cb8c",
+    "substitutes": { "ariadna": ["1735"], "anchor": ["00301"] }
+  },
+  {
+    "id": "dmc19",
+    "brand": "DMC",
+    "name": "19",
+    "order": 329,
+    "rgb": "#fbc07c",
+    "substitutes": { "ariadna": ["1735"], "anchor": ["00301"] }
+  },
+  {
+    "id": "dmc3854",
+    "brand": "DMC",
+    "name": "3854",
+    "order": 330,
+    "rgb": "#e29a5d",
+    "substitutes": { "ariadna": ["1527"], "anchor": ["00313"] }
+  },
+  {
+    "id": "dmc3853",
+    "brand": "DMC",
+    "name": "3853",
+    "order": 331,
+    "rgb": "#cd722d",
+    "substitutes": { "ariadna": ["1533"], "anchor": ["00925"] }
+  },
+  {
+    "id": "dmc3827",
+    "brand": "DMC",
+    "name": "3827",
+    "order": 332,
+    "rgb": "#dea369",
+    "substitutes": { "ariadna": ["1531"], "anchor": ["00311"] }
+  },
+  {
+    "id": "dmc977",
+    "brand": "DMC",
+    "name": "977",
+    "order": 333,
+    "rgb": "#d69254",
+    "substitutes": { "ariadna": ["1532"], "anchor": ["00363"] }
+  },
+  {
+    "id": "dmc976",
+    "brand": "DMC",
+    "name": "976",
+    "order": 334,
+    "rgb": "#b56c2a",
+    "substitutes": { "ariadna": ["1533"], "anchor": ["01001"] }
+  },
+  {
+    "id": "dmc3826",
+    "brand": "DMC",
+    "name": "3826",
+    "order": 335,
+    "rgb": "#975423",
+    "substitutes": { "ariadna": ["1740"], "anchor": ["00349"] }
+  },
+  {
+    "id": "dmc975",
+    "brand": "DMC",
+    "name": "975",
+    "order": 336,
+    "rgb": "#652d08",
+    "substitutes": { "ariadna": ["1742"], "anchor": ["00355"] }
+  },
+  {
+    "id": "dmc445",
+    "brand": "DMC",
+    "name": "445",
+    "order": 337,
+    "rgb": "#ffed94",
+    "substitutes": { "ariadna": ["1502"], "anchor": ["00288"] }
+  },
+  {
+    "id": "dmc307",
+    "brand": "DMC",
+    "name": "307",
+    "order": 338,
+    "rgb": "#ffd438",
+    "substitutes": { "ariadna": ["1503"], "anchor": ["00289"] }
+  },
+  {
+    "id": "dmc973",
+    "brand": "DMC",
+    "name": "973",
+    "order": 339,
+    "rgb": "#fac300",
+    "substitutes": { "ariadna": ["1504"], "anchor": ["00297"] }
+  },
+  {
+    "id": "dmc444",
+    "brand": "DMC",
+    "name": "444",
+    "order": 340,
+    "rgb": "#f8bd00",
+    "substitutes": { "ariadna": ["1505"], "anchor": ["00290"] }
+  },
+  {
+    "id": "dmc3078",
+    "brand": "DMC",
+    "name": "3078",
+    "order": 341,
+    "rgb": "#fae3a0",
+    "substitutes": { "ariadna": ["1512"], "anchor": ["00292"] }
+  },
+  {
+    "id": "dmc727",
+    "brand": "DMC",
+    "name": "727",
+    "order": 342,
+    "rgb": "#fcdd87",
+    "substitutes": { "ariadna": ["1513"], "anchor": ["00293"] }
+  },
+  {
+    "id": "dmc726",
+    "brand": "DMC",
+    "name": "726",
+    "order": 343,
+    "rgb": "#f8c853",
+    "substitutes": { "ariadna": ["1514"], "anchor": ["00295"] }
+  },
+  {
+    "id": "dmc725",
+    "brand": "DMC",
+    "name": "725",
+    "order": 344,
+    "rgb": "#eeaf42",
+    "substitutes": { "ariadna": ["1514"], "anchor": ["00305"] }
+  },
+  {
+    "id": "dmc972",
+    "brand": "DMC",
+    "name": "972",
+    "order": 345,
+    "rgb": "#f59e00",
+    "substitutes": { "ariadna": ["1506"], "anchor": ["00298"] }
+  },
+  {
+    "id": "dmc745",
+    "brand": "DMC",
+    "name": "745",
+    "order": 346,
+    "rgb": "#fde2ac",
+    "substitutes": { "ariadna": ["1508"], "anchor": ["00300"] }
+  },
+  {
+    "id": "dmc744",
+    "brand": "DMC",
+    "name": "744",
+    "order": 347,
+    "rgb": "#fad182",
+    "substitutes": { "ariadna": ["1508"], "anchor": ["00301"] }
+  },
+  {
+    "id": "dmc743",
+    "brand": "DMC",
+    "name": "743",
+    "order": 348,
+    "rgb": "#f8c058",
+    "substitutes": { "ariadna": ["1514"], "anchor": ["00302"] }
+  },
+  {
+    "id": "dmc742",
+    "brand": "DMC",
+    "name": "742",
+    "order": 349,
+    "rgb": "#f3a230",
+    "substitutes": { "ariadna": ["1510"], "anchor": ["00303"] }
+  },
+  {
+    "id": "dmc741",
+    "brand": "DMC",
+    "name": "741",
+    "order": 350,
+    "rgb": "#ee8700",
+    "substitutes": { "ariadna": ["1518"], "anchor": ["00304"] }
+  },
+  {
+    "id": "dmc740",
+    "brand": "DMC",
+    "name": "740",
+    "order": 351,
+    "rgb": "#db6400",
+    "substitutes": { "ariadna": ["1517"], "anchor": ["00314"] }
+  },
+  {
+    "id": "dmc970",
+    "brand": "DMC",
+    "name": "970",
+    "order": 352,
+    "rgb": "#e76e20",
+    "substitutes": { "ariadna": ["1523"], "anchor": ["00316"] }
+  },
+  {
+    "id": "dmc947",
+    "brand": "DMC",
+    "name": "947",
+    "order": 353,
+    "rgb": "#cf5016",
+    "substitutes": { "ariadna": ["1519"], "anchor": ["00330"] }
+  },
+  {
+    "id": "dmc946",
+    "brand": "DMC",
+    "name": "946",
+    "order": 354,
+    "rgb": "#c14b1e",
+    "substitutes": { "ariadna": ["1521"], "anchor": ["00332"] }
+  },
+  {
+    "id": "dmc900",
+    "brand": "DMC",
+    "name": "900",
+    "order": 355,
+    "rgb": "#a6361f",
+    "substitutes": { "ariadna": ["1520"], "anchor": ["00333"] }
+  },
+  {
+    "id": "dmc967",
+    "brand": "DMC",
+    "name": "967",
+    "order": 356,
+    "rgb": "#fccab9",
+    "substitutes": { "ariadna": ["1754"], "anchor": ["00006"] }
+  },
+  {
+    "id": "dmc3824",
+    "brand": "DMC",
+    "name": "3824",
+    "order": 357,
+    "rgb": "#f6aa97",
+    "substitutes": { "ariadna": ["1544"], "anchor": ["00008"] }
+  },
+  {
+    "id": "dmc3341",
+    "brand": "DMC",
+    "name": "3341",
+    "order": 358,
+    "rgb": "#ea8e77",
+    "substitutes": { "ariadna": ["1538"], "anchor": ["00328"] }
+  },
+  {
+    "id": "dmc3340",
+    "brand": "DMC",
+    "name": "3340",
+    "order": 359,
+    "rgb": "#df6c49",
+    "substitutes": { "ariadna": ["1518"], "anchor": ["00329"] }
+  },
+  {
+    "id": "dmc608",
+    "brand": "DMC",
+    "name": "608",
+    "order": 360,
+    "rgb": "#cc3f18",
+    "substitutes": { "ariadna": ["1519"], "anchor": ["00332"] }
+  },
+  {
+    "id": "dmc606",
+    "brand": "DMC",
+    "name": "606",
+    "order": 361,
+    "rgb": "#ae0d13",
+    "substitutes": { "ariadna": ["1546"], "anchor": ["00334"] }
+  },
+  {
+    "id": "dmc951",
+    "brand": "DMC",
+    "name": "951",
+    "order": 362,
+    "rgb": "#eed2b9",
+    "substitutes": { "ariadna": ["1525"], "anchor": ["01010"] }
+  },
+  {
+    "id": "dmc3856",
+    "brand": "DMC",
+    "name": "3856",
+    "order": 363,
+    "rgb": "#e9bb93",
+    "substitutes": { "ariadna": ["1737"], "anchor": ["00361"] }
+  },
+  {
+    "id": "dmc722",
+    "brand": "DMC",
+    "name": "722",
+    "order": 364,
+    "rgb": "#e78d5b",
+    "substitutes": { "ariadna": ["1527"], "anchor": ["00323"] }
+  },
+  {
+    "id": "dmc721",
+    "brand": "DMC",
+    "name": "721",
+    "order": 365,
+    "rgb": "#d1622b",
+    "substitutes": { "ariadna": ["1528"], "anchor": ["00925"] }
+  },
+  {
+    "id": "dmc720",
+    "brand": "DMC",
+    "name": "720",
+    "order": 366,
+    "rgb": "#b14302",
+    "substitutes": { "ariadna": ["1529"], "anchor": ["00326"] }
+  },
+  {
+    "id": "dmc3825",
+    "brand": "DMC",
+    "name": "3825",
+    "order": 367,
+    "rgb": "#f2a87e",
+    "substitutes": { "ariadna": ["1537"], "anchor": ["01047"] }
+  },
+  {
+    "id": "dmc922",
+    "brand": "DMC",
+    "name": "922",
+    "order": 368,
+    "rgb": "#be673a",
+    "substitutes": { "ariadna": ["1533"], "anchor": ["01003"] }
+  },
+  {
+    "id": "dmc921",
+    "brand": "DMC",
+    "name": "921",
+    "order": 369,
+    "rgb": "#a14a21",
+    "substitutes": { "ariadna": ["1534"], "anchor": ["00349"] }
+  },
+  {
+    "id": "dmc920",
+    "brand": "DMC",
+    "name": "920",
+    "order": 370,
+    "rgb": "#873113",
+    "substitutes": { "ariadna": ["1535"], "anchor": ["01004"] }
+  },
+  {
+    "id": "dmc919",
+    "brand": "DMC",
+    "name": "919",
+    "order": 371,
+    "rgb": "#711c02",
+    "substitutes": { "ariadna": ["1758"], "anchor": ["00340"] }
+  },
+  {
+    "id": "dmc918",
+    "brand": "DMC",
+    "name": "918",
+    "order": 372,
+    "rgb": "#6c2411",
+    "substitutes": { "ariadna": ["1734"], "anchor": ["00341"] }
+  },
+  {
+    "id": "dmc3770",
+    "brand": "DMC",
+    "name": "3770",
+    "order": 373,
+    "rgb": "#f8e6d5",
+    "substitutes": { "ariadna": ["1765"], "anchor": ["01009"] }
+  },
+  {
+    "id": "dmc945",
+    "brand": "DMC",
+    "name": "945",
+    "order": 374,
+    "rgb": "#e3c2a7",
+    "substitutes": { "ariadna": ["1754"], "anchor": ["00881"] }
+  },
+  {
+    "id": "dmc402",
+    "brand": "DMC",
+    "name": "402",
+    "order": 375,
+    "rgb": "#d39165",
+    "substitutes": { "ariadna": ["1531"], "anchor": ["01047"] }
+  },
+  {
+    "id": "dmc3776",
+    "brand": "DMC",
+    "name": "3776",
+    "order": 376,
+    "rgb": "#b16434",
+    "substitutes": { "ariadna": ["1759"], "anchor": ["01048"] }
+  },
+  {
+    "id": "dmc301",
+    "brand": "DMC",
+    "name": "301",
+    "order": 377,
+    "rgb": "#8f4a1c",
+    "substitutes": { "ariadna": ["1740"], "anchor": ["01049"] }
+  },
+  {
+    "id": "dmc400",
+    "brand": "DMC",
+    "name": "400",
+    "order": 378,
+    "rgb": "#662700",
+    "substitutes": { "ariadna": ["1784"], "anchor": ["00351"] }
+  },
+  {
+    "id": "dmc300",
+    "brand": "DMC",
+    "name": "300",
+    "order": 379,
+    "rgb": "#4a1b00",
+    "substitutes": { "ariadna": ["1744"], "anchor": ["00352"] }
+  },
+  {
+    "id": "dmc225",
+    "brand": "DMC",
+    "name": "225",
+    "order": 380,
+    "rgb": "#eecfc9",
+    "substitutes": { "ariadna": ["1791"], "anchor": ["00892"] }
+  },
+  {
+    "id": "dmc224",
+    "brand": "DMC",
+    "name": "224",
+    "order": 381,
+    "rgb": "#d3a9a3",
+    "substitutes": { "ariadna": ["1575"], "anchor": ["00893"] }
+  },
+  {
+    "id": "dmc152",
+    "brand": "DMC",
+    "name": "152",
+    "order": 382,
+    "rgb": "#c39594",
+    "substitutes": { "ariadna": ["1575"], "anchor": ["00969"] }
+  },
+  {
+    "id": "dmc223",
+    "brand": "DMC",
+    "name": "223",
+    "order": 393,
+    "rgb": "#995e65",
+    "substitutes": { "ariadna": ["1576"], "anchor": ["00894"] }
+  },
+  {
+    "id": "dmc3722",
+    "brand": "DMC",
+    "name": "3722",
+    "order": 394,
+    "rgb": "#8c4e52",
+    "substitutes": { "ariadna": ["1577"], "anchor": ["01027"] }
+  },
+  {
+    "id": "dmc3721",
+    "brand": "DMC",
+    "name": "3721",
+    "order": 395,
+    "rgb": "#793537",
+    "substitutes": { "ariadna": ["1574"], "anchor": ["00895"] }
+  },
+  {
+    "id": "dmc221",
+    "brand": "DMC",
+    "name": "221",
+    "order": 396,
+    "rgb": "#631c21",
+    "substitutes": { "ariadna": ["1744"], "anchor": ["00896"] }
+  },
+  {
+    "id": "dmc948",
+    "brand": "DMC",
+    "name": "948",
+    "order": 397,
+    "rgb": "#edd2bf",
+    "substitutes": { "ariadna": ["1543"], "anchor": ["01011"] }
+  },
+  {
+    "id": "dmc754",
+    "brand": "DMC",
+    "name": "754",
+    "order": 398,
+    "rgb": "#e4b6a0",
+    "substitutes": { "ariadna": ["1754"], "anchor": ["01012"] }
+  },
+  {
+    "id": "dmc3771",
+    "brand": "DMC",
+    "name": "3771",
+    "order": 399,
+    "rgb": "#d6a184",
+    "substitutes": { "ariadna": ["1755"], "anchor": ["00336"] }
+  },
+  {
+    "id": "dmc758",
+    "brand": "DMC",
+    "name": "758",
+    "order": 400,
+    "rgb": "#ce9884",
+    "substitutes": { "ariadna": ["1755"], "anchor": ["09575"] }
+  },
+  {
+    "id": "dmc3778",
+    "brand": "DMC",
+    "name": "3778",
+    "order": 401,
+    "rgb": "#b16e5d",
+    "substitutes": { "ariadna": ["1754"], "anchor": ["01013"] }
+  },
+  {
+    "id": "dmc356",
+    "brand": "DMC",
+    "name": "356",
+    "order": 402,
+    "rgb": "#985245",
+    "substitutes": { "ariadna": ["1760"], "anchor": ["05975"] }
+  },
+  {
+    "id": "dmc3830",
+    "brand": "DMC",
+    "name": "3830",
+    "order": 403,
+    "rgb": "#87362b",
+    "substitutes": { "ariadna": ["1757"], "anchor": ["01014"] }
+  },
+  {
+    "id": "dmc355",
+    "brand": "DMC",
+    "name": "355",
+    "order": 404,
+    "rgb": "#6d1b16",
+    "substitutes": { "ariadna": ["1758"], "anchor": ["01014"] }
+  },
+  {
+    "id": "dmc3777",
+    "brand": "DMC",
+    "name": "3777",
+    "order": 405,
+    "rgb": "#5f0d11",
+    "substitutes": { "ariadna": ["1761"], "anchor": ["01015"] }
+  },
+  {
+    "id": "dmc3779",
+    "brand": "DMC",
+    "name": "3779",
+    "order": 406,
+    "rgb": "#dead9e",
+    "substitutes": { "ariadna": ["1755"], "anchor": ["00868"] }
+  },
+  {
+    "id": "dmc3859",
+    "brand": "DMC",
+    "name": "3859",
+    "order": 407,
+    "rgb": "#a16f5d",
+    "substitutes": { "ariadna": ["1752"], "anchor": ["00914"] }
+  },
+  {
+    "id": "dmc3858",
+    "brand": "DMC",
+    "name": "3858",
+    "order": 408,
+    "rgb": "#632f2b",
+    "substitutes": { "ariadna": ["1772"], "anchor": ["00895"] }
+  },
+  {
+    "id": "dmc3857",
+    "brand": "DMC",
+    "name": "3857",
+    "order": 409,
+    "rgb": "#441508",
+    "substitutes": { "ariadna": ["1751"], "anchor": ["00352"] }
+  },
+  {
+    "id": "dmc20",
+    "brand": "DMC",
+    "name": "20",
+    "order": 410,
+    "rgb": "#f7c0af",
+    "substitutes": { "ariadna": ["1754"], "anchor": ["00006"] }
+  },
+  {
+    "id": "dmc21",
+    "brand": "DMC",
+    "name": "21",
+    "order": 411,
+    "rgb": "#b26556",
+    "substitutes": { "ariadna": ["1754"], "anchor": ["01013"] }
+  },
+  {
+    "id": "dmc22",
+    "brand": "DMC",
+    "name": "22",
+    "order": 412,
+    "rgb": "#832725",
+    "substitutes": { "ariadna": ["1540"], "anchor": ["01025"] }
+  },
+  {
+    "id": "dmc3774",
+    "brand": "DMC",
+    "name": "3774",
+    "order": 413,
+    "rgb": "#e5c9b6",
+    "substitutes": { "ariadna": ["1776"], "anchor": ["00778"] }
+  },
+  {
+    "id": "dmc950",
+    "brand": "DMC",
+    "name": "950",
+    "order": 414,
+    "rgb": "#ddbea8",
+    "substitutes": { "ariadna": ["1746"], "anchor": ["04146"] }
+  },
+  {
+    "id": "dmc3064",
+    "brand": "DMC",
+    "name": "3064",
+    "order": 415,
+    "rgb": "#ab7a63",
+    "substitutes": { "ariadna": ["1769"], "anchor": ["00347"] }
+  },
+  {
+    "id": "dmc407",
+    "brand": "DMC",
+    "name": "407",
+    "order": 416,
+    "rgb": "#ad8272",
+    "substitutes": { "ariadna": ["1770"], "anchor": ["01008"] }
+  },
+  {
+    "id": "dmc3772",
+    "brand": "DMC",
+    "name": "3772",
+    "order": 417,
+    "rgb": "#8a5a4a",
+    "substitutes": { "ariadna": ["1771"], "anchor": ["01007"] }
+  },
+  {
+    "id": "dmc632",
+    "brand": "DMC",
+    "name": "632",
+    "order": 418,
+    "rgb": "#704235",
+    "substitutes": { "ariadna": ["1772"], "anchor": ["00936"] }
+  },
+  {
+    "id": "dmc453",
+    "brand": "DMC",
+    "name": "453",
+    "order": 419,
+    "rgb": "#ccc1b9",
+    "substitutes": { "ariadna": ["1809"], "anchor": ["00231"] }
+  },
+  {
+    "id": "dmc452",
+    "brand": "DMC",
+    "name": "452",
+    "order": 420,
+    "rgb": "#b1a19d",
+    "substitutes": { "ariadna": ["1764"], "anchor": ["00232"] }
+  },
+  {
+    "id": "dmc451",
+    "brand": "DMC",
+    "name": "451",
+    "order": 421,
+    "rgb": "#86746f",
+    "substitutes": { "ariadna": ["1763"], "anchor": ["00233"] }
+  },
+  {
+    "id": "dmc3861",
+    "brand": "DMC",
+    "name": "3861",
+    "order": 422,
+    "rgb": "#9b837e",
+    "substitutes": { "ariadna": ["1763"], "anchor": ["00378"] }
+  },
+  {
+    "id": "dmc3860",
+    "brand": "DMC",
+    "name": "3860",
+    "order": 423,
+    "rgb": "#6c514b",
+    "substitutes": { "ariadna": ["1789"], "anchor": ["00379"] }
+  },
+  {
+    "id": "dmc779",
+    "brand": "DMC",
+    "name": "779",
+    "order": 424,
+    "rgb": "#583c37",
+    "substitutes": { "ariadna": ["1782"], "anchor": ["00380"] }
+  },
+  {
+    "id": "dmc09",
+    "brand": "DMC",
+    "name": "09",
+    "order": 425,
+    "rgb": "#412e30",
+    "substitutes": { "ariadna": ["1782"], "anchor": ["01041"] }
+  },
+  {
+    "id": "dmc712",
+    "brand": "DMC",
+    "name": "712",
+    "order": 426,
+    "rgb": "#eddfc9",
+    "substitutes": { "ariadna": ["1524"], "anchor": ["00387"] }
+  },
+  {
+    "id": "dmc739",
+    "brand": "DMC",
+    "name": "739",
+    "order": 427,
+    "rgb": "#ead4b4",
+    "substitutes": { "ariadna": ["1776"], "anchor": ["00885"] }
+  },
+  {
+    "id": "dmc738",
+    "brand": "DMC",
+    "name": "738",
+    "order": 428,
+    "rgb": "#d4b48c",
+    "substitutes": { "ariadna": ["1777"], "anchor": ["00361"] }
+  },
+  {
+    "id": "dmc437",
+    "brand": "DMC",
+    "name": "437",
+    "order": 429,
+    "rgb": "#cc9f71",
+    "substitutes": { "ariadna": ["1767"], "anchor": ["00362"] }
+  },
+  {
+    "id": "dmc436",
+    "brand": "DMC",
+    "name": "436",
+    "order": 430,
+    "rgb": "#ac7948",
+    "substitutes": { "ariadna": ["1768"], "anchor": ["01045"] }
+  },
+  {
+    "id": "dmc435",
+    "brand": "DMC",
+    "name": "435",
+    "order": 431,
+    "rgb": "#996232",
+    "substitutes": { "ariadna": ["1741"], "anchor": ["00365"] }
+  },
+  {
+    "id": "dmc434",
+    "brand": "DMC",
+    "name": "434",
+    "order": 432,
+    "rgb": "#794412",
+    "substitutes": { "ariadna": ["1731"], "anchor": ["00310"] }
+  },
+  {
+    "id": "dmc433",
+    "brand": "DMC",
+    "name": "433",
+    "order": 433,
+    "rgb": "#5c310d",
+    "substitutes": { "ariadna": ["1781"], "anchor": ["00357"] }
+  },
+  {
+    "id": "dmc801",
+    "brand": "DMC",
+    "name": "801",
+    "order": 434,
+    "rgb": "#4c280f",
+    "substitutes": { "ariadna": ["1773"], "anchor": ["00359"] }
+  },
+  {
+    "id": "dmc898",
+    "brand": "DMC",
+    "name": "898",
+    "order": 435,
+    "rgb": "#3f2108",
+    "substitutes": { "ariadna": ["1784"], "anchor": ["00360"] }
+  },
+  {
+    "id": "dmc938",
+    "brand": "DMC",
+    "name": "938",
+    "order": 436,
+    "rgb": "#331806",
+    "substitutes": { "ariadna": ["1785"], "anchor": ["01088"] }
+  },
+  {
+    "id": "dmc3371",
+    "brand": "DMC",
+    "name": "3371",
+    "order": 437,
+    "rgb": "#1f0500",
+    "substitutes": { "ariadna": ["1786"], "anchor": ["00382"] }
+  },
+  {
+    "id": "dmc543",
+    "brand": "DMC",
+    "name": "543",
+    "order": 438,
+    "rgb": "#dec9b8",
+    "substitutes": { "ariadna": ["1776"], "anchor": ["00276"] }
+  },
+  {
+    "id": "dmc3864",
+    "brand": "DMC",
+    "name": "3864",
+    "order": 439,
+    "rgb": "#bfa28b",
+    "substitutes": { "ariadna": ["1747"], "anchor": ["00376"] }
+  },
+  {
+    "id": "dmc3863",
+    "brand": "DMC",
+    "name": "3863",
+    "order": 440,
+    "rgb": "#937055",
+    "substitutes": { "ariadna": ["1783"], "anchor": ["00914"] }
+  },
+  {
+    "id": "dmc3862",
+    "brand": "DMC",
+    "name": "3862",
+    "order": 441,
+    "rgb": "#7c583b",
+    "substitutes": { "ariadna": ["1789"], "anchor": ["00358"] }
+  },
+  {
+    "id": "dmc3031",
+    "brand": "DMC",
+    "name": "3031",
+    "order": 442,
+    "rgb": "#392515",
+    "substitutes": { "ariadna": ["1774"], "anchor": ["00381"] }
+  },
+  {
+    "id": "dmc3865",
+    "brand": "DMC",
+    "name": "3865",
+    "order": 443,
+    "rgb": "#fbf9f0",
+    "substitutes": { "ariadna": ["1500"], "anchor": ["00002"] }
+  },
+  {
+    "id": "dmcecru",
+    "brand": "DMC",
+    "name": "Ecru",
+    "order": 444,
+    "rgb": "#f0e3cd",
+    "substitutes": { "ariadna": ["1790"], "anchor": ["00387"] }
+  },
+  {
+    "id": "dmc822",
+    "brand": "DMC",
+    "name": "822",
+    "order": 445,
+    "rgb": "#dfd3bf",
+    "substitutes": { "ariadna": ["1791"], "anchor": ["00831"] }
+  },
+  {
+    "id": "dmc644",
+    "brand": "DMC",
+    "name": "644",
+    "order": 446,
+    "rgb": "#c8bea8",
+    "substitutes": { "ariadna": ["1796"], "anchor": ["00830"] }
+  },
+  {
+    "id": "dmc642",
+    "brand": "DMC",
+    "name": "642",
+    "order": 447,
+    "rgb": "#92866e",
+    "substitutes": { "ariadna": ["1797"], "anchor": ["00392"] }
+  },
+  {
+    "id": "dmc640",
+    "brand": "DMC",
+    "name": "640",
+    "order": 448,
+    "rgb": "#7b6f53",
+    "substitutes": { "ariadna": ["1798"], "anchor": ["01084"] }
+  },
+  {
+    "id": "dmc3787",
+    "brand": "DMC",
+    "name": "3787",
+    "order": 449,
+    "rgb": "#4e4836",
+    "substitutes": { "ariadna": ["1799"], "anchor": ["00273"] }
+  },
+  {
+    "id": "dmc3021",
+    "brand": "DMC",
+    "name": "3021",
+    "order": 450,
+    "rgb": "#2f261a",
+    "substitutes": { "ariadna": ["1800"], "anchor": ["00905"] }
+  },
+  {
+    "id": "dmc844",
+    "brand": "DMC",
+    "name": "844",
+    "order": 451,
+    "rgb": "#403933",
+    "substitutes": { "ariadna": ["1808"], "anchor": ["01041"] }
+  },
+  {
+    "id": "dmc3033",
+    "brand": "DMC",
+    "name": "3033",
+    "order": 452,
+    "rgb": "#d5c6b2",
+    "substitutes": { "ariadna": ["1801"], "anchor": ["00391"] }
+  },
+  {
+    "id": "dmc3782",
+    "brand": "DMC",
+    "name": "3782",
+    "order": 453,
+    "rgb": "#b4a38a",
+    "substitutes": { "ariadna": ["1764"], "anchor": ["00899"] }
+  },
+  {
+    "id": "dmc3032",
+    "brand": "DMC",
+    "name": "3032",
+    "order": 454,
+    "rgb": "#918064",
+    "substitutes": { "ariadna": ["1792"], "anchor": ["00903"] }
+  },
+  {
+    "id": "dmc3790",
+    "brand": "DMC",
+    "name": "3790",
+    "order": 455,
+    "rgb": "#7b644d",
+    "substitutes": { "ariadna": ["1793"], "anchor": ["00393"] }
+  },
+  {
+    "id": "dmc3781",
+    "brand": "DMC",
+    "name": "3781",
+    "order": 456,
+    "rgb": "#483420",
+    "substitutes": { "ariadna": ["1794"], "anchor": ["00904"] }
+  },
+  {
+    "id": "dmc05",
+    "brand": "DMC",
+    "name": "05",
+    "order": 457,
+    "rgb": "#c5b7ad",
+    "substitutes": { "ariadna": ["1809"], "anchor": ["00390"] }
+  },
+  {
+    "id": "dmc06",
+    "brand": "DMC",
+    "name": "06",
+    "order": 458,
+    "rgb": "#bdaea3",
+    "substitutes": { "ariadna": ["1810"], "anchor": ["00390"] }
+  },
+  {
+    "id": "dmc07",
+    "brand": "DMC",
+    "name": "07",
+    "order": 459,
+    "rgb": "#8f7d6f",
+    "substitutes": { "ariadna": ["1788"], "anchor": ["00233"] }
+  },
+  {
+    "id": "dmc08",
+    "brand": "DMC",
+    "name": "08",
+    "order": 460,
+    "rgb": "#584437",
+    "substitutes": { "ariadna": ["1789"], "anchor": ["01086"] }
+  },
+  {
+    "id": "dmc3866",
+    "brand": "DMC",
+    "name": "3866",
+    "order": 461,
+    "rgb": "#e5dbcf",
+    "substitutes": { "ariadna": ["1791"], "anchor": ["00926"] }
+  },
+  {
+    "id": "dmc842",
+    "brand": "DMC",
+    "name": "842",
+    "order": 462,
+    "rgb": "#bba592",
+    "substitutes": { "ariadna": ["1787"], "anchor": ["01080"] }
+  },
+  {
+    "id": "dmc841",
+    "brand": "DMC",
+    "name": "841",
+    "order": 463,
+    "rgb": "#a58c79",
+    "substitutes": { "ariadna": ["1788"], "anchor": ["01082"] }
+  },
+  {
+    "id": "dmc840",
+    "brand": "DMC",
+    "name": "840",
+    "order": 464,
+    "rgb": "#836a55",
+    "substitutes": { "ariadna": ["1798"], "anchor": ["01084"] }
+  },
+  {
+    "id": "dmc839",
+    "brand": "DMC",
+    "name": "839",
+    "order": 465,
+    "rgb": "#4e3827",
+    "substitutes": { "ariadna": ["1762"], "anchor": ["01086"] }
+  },
+  {
+    "id": "dmc838",
+    "brand": "DMC",
+    "name": "838",
+    "order": 466,
+    "rgb": "#392117",
+    "substitutes": { "ariadna": ["1782"], "anchor": ["00381"] }
+  },
+  {
+    "id": "dmc3072",
+    "brand": "DMC",
+    "name": "3072",
+    "order": 467,
+    "rgb": "#d0d0c4",
+    "substitutes": { "ariadna": ["1813"], "anchor": ["01042"] }
+  },
+  {
+    "id": "dmc647",
+    "brand": "DMC",
+    "name": "647",
+    "order": 468,
+    "rgb": "#9e9c8a",
+    "substitutes": { "ariadna": ["1783"], "anchor": ["01040"] }
+  },
+  {
+    "id": "dmc3023",
+    "brand": "DMC",
+    "name": "3023",
+    "order": 469,
+    "rgb": "#a59d89",
+    "substitutes": { "ariadna": ["1804"], "anchor": ["01040"] }
+  },
+  {
+    "id": "dmc3022",
+    "brand": "DMC",
+    "name": "3022",
+    "order": 470,
+    "rgb": "#87846c",
+    "substitutes": { "ariadna": ["1763"], "anchor": ["08581"] }
+  },
+  {
+    "id": "dmc3024",
+    "brand": "DMC",
+    "name": "3024",
+    "order": 471,
+    "rgb": "#cac7ba",
+    "substitutes": { "ariadna": ["1796"], "anchor": ["00397"] }
+  },
+  {
+    "id": "dmc648",
+    "brand": "DMC",
+    "name": "648",
+    "order": 472,
+    "rgb": "#b0a89b",
+    "substitutes": { "ariadna": ["1806"], "anchor": ["00900"] }
+  },
+  {
+    "id": "dmc646",
+    "brand": "DMC",
+    "name": "646",
+    "order": 473,
+    "rgb": "#807b69",
+    "substitutes": { "ariadna": ["1807"], "anchor": ["08581"] }
+  },
+  {
+    "id": "dmc645",
+    "brand": "DMC",
+    "name": "645",
+    "order": 474,
+    "rgb": "#59564c",
+    "substitutes": { "ariadna": ["1811"], "anchor": ["00273"] }
+  },
+  {
+    "id": "dmcb5200",
+    "brand": "DMC",
+    "name": "B5200",
+    "order": 475,
+    "rgb": "#ffffff",
+    "substitutes": { "ariadna": ["1500"], "anchor": ["00001"] }
+  },
+  {
+    "id": "dmcblanc",
+    "brand": "DMC",
+    "name": "Blanc",
+    "order": 476,
+    "rgb": "#f9f9f5",
+    "substitutes": { "ariadna": ["1500"], "anchor": ["00002"] }
+  },
+  {
+    "id": "dmc762",
+    "brand": "DMC",
+    "name": "762",
+    "order": 477,
+    "rgb": "#dddedc",
+    "substitutes": { "ariadna": ["1813"], "anchor": ["00234"] }
+  },
+  {
+    "id": "dmc415",
+    "brand": "DMC",
+    "name": "415",
+    "order": 478,
+    "rgb": "#919498",
+    "substitutes": { "ariadna": ["1816"], "anchor": ["00399"] }
+  },
+  {
+    "id": "dmc318",
+    "brand": "DMC",
+    "name": "318",
+    "order": 479,
+    "rgb": "#979aa2",
+    "substitutes": { "ariadna": ["1635"], "anchor": ["00399"] }
+  },
+  {
+    "id": "dmc414",
+    "brand": "DMC",
+    "name": "414",
+    "order": 480,
+    "rgb": "#70747d",
+    "substitutes": { "ariadna": ["1815"], "anchor": ["00235"] }
+  },
+  {
+    "id": "dmc01",
+    "brand": "DMC",
+    "name": "01",
+    "order": 481,
+    "rgb": "#d1d0cd",
+    "substitutes": { "ariadna": ["1813"], "anchor": ["00274"] }
+  },
+  {
+    "id": "dmc02",
+    "brand": "DMC",
+    "name": "02",
+    "order": 482,
+    "rgb": "#bebebd",
+    "substitutes": { "ariadna": ["1645"], "anchor": ["00398"] }
+  },
+  {
+    "id": "dmc03",
+    "brand": "DMC",
+    "name": "03",
+    "order": 483,
+    "rgb": "#97989c",
+    "substitutes": { "ariadna": ["1816"], "anchor": ["00399"] }
+  },
+  {
+    "id": "dmc04",
+    "brand": "DMC",
+    "name": "04",
+    "order": 484,
+    "rgb": "#747275",
+    "substitutes": { "ariadna": ["1815"], "anchor": ["00235"] }
+  },
+  {
+    "id": "dmc535",
+    "brand": "DMC",
+    "name": "535",
+    "order": 485,
+    "rgb": "#484644",
+    "substitutes": { "ariadna": ["1799"], "anchor": ["00401"] }
+  },
+  {
+    "id": "dmc168",
+    "brand": "DMC",
+    "name": "168",
+    "order": 486,
+    "rgb": "#b6bdbd",
+    "substitutes": { "ariadna": ["1645"], "anchor": ["00398"] }
+  },
+  {
+    "id": "dmc169",
+    "brand": "DMC",
+    "name": "169",
+    "order": 487,
+    "rgb": "#7d8482",
+    "substitutes": { "ariadna": ["1647"], "anchor": ["00849"] }
+  },
+  {
+    "id": "dmc317",
+    "brand": "DMC",
+    "name": "317",
+    "order": 488,
+    "rgb": "#4c525a",
+    "substitutes": { "ariadna": ["1811"], "anchor": ["00400"] }
+  },
+  {
+    "id": "dmc413",
+    "brand": "DMC",
+    "name": "413",
+    "order": 489,
+    "rgb": "#3a4143",
+    "substitutes": { "ariadna": ["1632"], "anchor": ["00401"] }
+  },
+  {
+    "id": "dmc3799",
+    "brand": "DMC",
+    "name": "3799",
+    "order": 490,
+    "rgb": "#2c2c2a",
+    "substitutes": { "ariadna": ["1812"], "anchor": ["00236"] }
+  },
+  {
+    "id": "dmc310",
+    "brand": "DMC",
+    "name": "310",
+    "order": 491,
+    "rgb": "#000000",
+    "substitutes": { "ariadna": ["1766"], "anchor": ["00403"] }
+  }
+]
